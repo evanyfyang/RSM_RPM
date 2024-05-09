@@ -8,9 +8,7 @@ This repository releases the code of the following paper:
 
 This code employs our RSM and RPM on [GAS](https://aclanthology.org/2021.acl-short.64/).
 
-## How to Run
-
-### Requirements
+## Requirements
 
 - transformers==4.18.0
 - pytorch==1.7.1
@@ -19,7 +17,7 @@ This code employs our RSM and RPM on [GAS](https://aclanthology.org/2021.acl-sho
 - tntorch==1.0.1
 - pytorch-lightning==1.3.5
 
-### Datasets
+## Datasets
 We have pre-processed data in `data`
 
 If you want to process them by yourself:
@@ -36,7 +34,7 @@ Then
 - execute `python data_preprocess_triplet.py --raw_data_dir data/raw/aste --output_data_dir data/aste_t5 --dataset 14lap` for ASTE datasets
 - You should change dataset names to run for each dataset
 
-### Run our code!
+## Run our code!
 Enter the code's dir and
 - execute `chmod +x bash/*`,
 - execute `bash/run_all.sh -c (Your_gpu_id)`.
@@ -47,7 +45,7 @@ You can also run single task by
 - execute `bash bash/train_extractor_quad.sh -a 1 -d rest15 -l 20 -c ${CUDA_IDS} -s 40 -t 1 -u 1` to run asqp task
 - execute `bash bash/train_extractor_acos.sh -a 1 -d rest16 -l 20 -c ${CUDA_IDS} -s 40 -t 1 -u 1` to run acos task
 
-#### Parameters
+### Parameters
 - `-a` control the ratio of MLE loss to RSM loss
 - `-d` dataset name, could be one of (14lap, 14res, 15res, 16res) in ASTE, (rest15, rest16) in ASQP, (rest16, laptop16) in ACOS
 - `-l` loss = this parameter * 1e-5
