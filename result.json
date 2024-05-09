@@ -1,0 +1,46 @@
+[
+  {
+    "use_prompt": 1,
+    "use_super": 1,
+    "seed": 40,
+    "dataset": "rest15",
+    "metric": {
+      "f1": 0.4958902742660514,
+      "recall": 0.4930817610062893,
+      "precision": 0.4987309644670051
+    }
+  },
+  {
+    "use_prompt": 1,
+    "use_super": 1,
+    "seed": 40,
+    "dataset": "rest16",
+    "metric": {
+      "f1": 0.5961991887283999,
+      "recall": 0.6032540675844806,
+      "precision": 0.5893074119076549
+    }
+  },
+  {
+    "use_prompt": 1,
+    "use_super": 1,
+    "seed": 40,
+    "dataset": "14res",
+    "metric": {
+      "f1": 0.7481097306128653,
+      "recall": 0.7464788732394366,
+      "precision": 0.7497477295660948
+    }
+  },
+  {
+    "use_prompt": 0,
+    "use_super": 0,
+    "seed": 40,
+    "dataset": "rest15",
+    "metric": {
+      "f1": 0.47208121827411165,
+      "recall": 0.4679245283018868,
+      "precision": 0.47631241997439183
+    }
+  }
+]

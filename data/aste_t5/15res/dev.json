@@ -1,0 +1,6156 @@
+﻿[
+    {
+        "sentence": "The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581average"
+                    ],
+                    "average"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    8,
+                    12,
+                    [
+                        "\u2581Thai",
+                        "\u2581",
+                        "fusion",
+                        "\u2581stuff"
+                    ],
+                    "Thai fusion stuff"
+                ],
+                "opinion": [
+                    16,
+                    18,
+                    [
+                        "\u2581too",
+                        "\u2581sweet"
+                    ],
+                    "too sweet"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581is', '\u2581very', '\u2581average', '\u2581', '...', '\u2581the', '\u2581Thai', '\u2581', 'fusion', '\u2581stuff', '\u2581is', '\u2581', 'a', '\u2581bit', '\u2581too', '\u2581sweet', '\u2581', ',', '\u2581every', '\u2581thing', '\u2581they', '\u2581serve', '\u2581is', '\u2581too', '\u2581sweet', '\u2581here', '\u2581', '.']",
+        "ID": 0
+    },
+    {
+        "sentence": "The decor is night tho ... but they REALLY need to clean that vent in the ceiling ... its quite un-appetizing , and kills your effort to make this place look sleek and modern .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581decor"
+                    ],
+                    "decor"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581night"
+                    ],
+                    "night"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    17,
+                    18,
+                    [
+                        "\u2581vent"
+                    ],
+                    "vent"
+                ],
+                "opinion": [
+                    25,
+                    31,
+                    [
+                        "\u2581un",
+                        "-",
+                        "app",
+                        "e",
+                        "t",
+                        "izing"
+                    ],
+                    "un-appetizing"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    41,
+                    42,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    43,
+                    44,
+                    [
+                        "\u2581sleek"
+                    ],
+                    "sleek"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    41,
+                    42,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    45,
+                    46,
+                    [
+                        "\u2581modern"
+                    ],
+                    "modern"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581decor', '\u2581is', '\u2581night', '\u2581', 'th', 'o', '\u2581', '...', '\u2581but', '\u2581they', '\u2581REAL', 'LY', '\u2581need', '\u2581to', '\u2581clean', '\u2581that', '\u2581vent', '\u2581in', '\u2581the', '\u2581ceiling', '\u2581', '...', '\u2581its', '\u2581quite', '\u2581un', '-', 'app', 'e', 't', 'izing', '\u2581', ',', '\u2581and', '\u2581kill', 's', '\u2581your', '\u2581effort', '\u2581to', '\u2581make', '\u2581this', '\u2581place', '\u2581look', '\u2581sleek', '\u2581and', '\u2581modern', '\u2581', '.']",
+        "ID": 1
+    },
+    {
+        "sentence": "The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    5,
+                    [
+                        "\u2581spicy",
+                        "\u2581tun",
+                        "a",
+                        "\u2581roll"
+                    ],
+                    "spicy tuna roll"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    11,
+                    15,
+                    [
+                        "\u2581rock",
+                        "\u2581shrimp",
+                        "\u2581temp",
+                        "ura"
+                    ],
+                    "rock shrimp tempura"
+                ],
+                "opinion": [
+                    16,
+                    17,
+                    [
+                        "\u2581awesome"
+                    ],
+                    "awesome"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581spicy', '\u2581tun', 'a', '\u2581roll', '\u2581was', '\u2581unusual', 'ly', '\u2581good', '\u2581and', '\u2581the', '\u2581rock', '\u2581shrimp', '\u2581temp', 'ura', '\u2581was', '\u2581awesome', '\u2581', ',', '\u2581great', '\u2581appetizer', '\u2581to', '\u2581share', '\u2581', '!']",
+        "ID": 2
+    },
+    {
+        "sentence": "we love th pink pony .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    6,
+                    [
+                        "\u2581pink",
+                        "\u2581pony"
+                    ],
+                    "pink pony"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581love"
+                    ],
+                    "love"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581we', '\u2581love', '\u2581', 'th', '\u2581pink', '\u2581pony', '\u2581', '.']",
+        "ID": 3
+    },
+    {
+        "sentence": "THe perfect spot .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581spot"
+                    ],
+                    "spot"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581perfect"
+                    ],
+                    "perfect"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581', 'TH', 'e', '\u2581perfect', '\u2581spot', '\u2581', '.']",
+        "ID": 4
+    },
+    {
+        "sentence": "Ambiance relaxed and stylish .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    2,
+                    [
+                        "\u2581Ambi",
+                        "ance"
+                    ],
+                    "Ambiance"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581relaxed"
+                    ],
+                    "relaxed"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    0,
+                    2,
+                    [
+                        "\u2581Ambi",
+                        "ance"
+                    ],
+                    "Ambiance"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581stylish"
+                    ],
+                    "stylish"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Ambi', 'ance', '\u2581relaxed', '\u2581and', '\u2581stylish', '\u2581', '.']",
+        "ID": 5
+    },
+    {
+        "sentence": "however , it 's the service that leaves a bad taste in my mouth .",
+        "triplets": [
+            {
+                "aspect": [
+                    8,
+                    9,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    13,
+                    15,
+                    [
+                        "\u2581bad",
+                        "\u2581taste"
+                    ],
+                    "bad taste"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581however', '\u2581', ',', '\u2581it', '\u2581', \"'\", 's', '\u2581the', '\u2581service', '\u2581that', '\u2581leaves', '\u2581', 'a', '\u2581bad', '\u2581taste', '\u2581in', '\u2581my', '\u2581mouth', '\u2581', '.']",
+        "ID": 6
+    },
+    {
+        "sentence": "i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check .",
+        "triplets": [
+            {
+                "aspect": [
+                    30,
+                    32,
+                    [
+                        "\u2581wait",
+                        "er"
+                    ],
+                    "waiter"
+                ],
+                "opinion": [
+                    46,
+                    47,
+                    [
+                        "\u2581bad"
+                    ],
+                    "bad"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581', 'i', '\u2581happen', '\u2581to', '\u2581have', '\u2581', 'a', '\u2581policy', '\u2581that', '\u2581goes', '\u2581along', '\u2581with', '\u2581', 'a', '\u2581little', '\u2581bit', '\u2581of', '\u2581self', '-', 're', 'spect', '\u2581', ',', '\u2581which', '\u2581includes', '\u2581not', '\u2581', 'letting', '\u2581', 'a', '\u2581wait', 'er', '\u2581intimid', 'ate', '\u2581me', '\u2581', ',', '\u2581', 'i', '.', 'e', '\u2581', '.', '\u2581make', '\u2581me', '\u2581feel', '\u2581bad', '\u2581asking', '\u2581for', '\u2581trivia', 'l', 'ities', '\u2581like', '\u2581water', '\u2581', ',', '\u2581or', '\u2581the', '\u2581check', '\u2581', '.']",
+        "ID": 7
+    },
+    {
+        "sentence": "I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .",
+        "triplets": [
+            {
+                "aspect": [
+                    10,
+                    14,
+                    [
+                        "\u2581sea",
+                        "\u2581",
+                        "ur",
+                        "chin"
+                    ],
+                    "sea urchin"
+                ],
+                "opinion": [
+                    19,
+                    20,
+                    [
+                        "heavenly"
+                    ],
+                    "heavenly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581tend', '\u2581to', '\u2581judge', '\u2581', 'a', '\u2581sushi', '\u2581restaurant', '\u2581by', '\u2581its', '\u2581sea', '\u2581', 'ur', 'chin', '\u2581', ',', '\u2581which', '\u2581was', '\u2581', 'heavenly', '\u2581at', '\u2581sushi', '\u2581rose', '\u2581', '.']",
+        "ID": 8
+    },
+    {
+        "sentence": "The sushi seemed pretty fresh and was adequately proportioned .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581sushi"
+                    ],
+                    "sushi"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581fresh"
+                    ],
+                    "fresh"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581sushi"
+                    ],
+                    "sushi"
+                ],
+                "opinion": [
+                    8,
+                    11,
+                    [
+                        "\u2581proportion",
+                        "e",
+                        "d"
+                    ],
+                    "proportioned"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581sushi', '\u2581seemed', '\u2581pretty', '\u2581fresh', '\u2581and', '\u2581was', '\u2581adequately', '\u2581proportion', 'e', 'd', '\u2581', '.']",
+        "ID": 9
+    },
+    {
+        "sentence": "The rice to fish ration was also good -- they did n't try to overpack the rice .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    6,
+                    [
+                        "\u2581rice",
+                        "\u2581to",
+                        "\u2581fish",
+                        "\u2581",
+                        "ration"
+                    ],
+                    "rice to fish ration"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581rice', '\u2581to', '\u2581fish', '\u2581', 'ration', '\u2581was', '\u2581also', '\u2581good', '\u2581--', '\u2581they', '\u2581did', '\u2581', 'n', \"'\", 't', '\u2581try', '\u2581to', '\u2581over', 'pack', '\u2581the', '\u2581rice', '\u2581', '.']",
+        "ID": 10
+    },
+    {
+        "sentence": "The food was well prepared and the service impecable .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    5,
+                    [
+                        "\u2581well",
+                        "\u2581prepared"
+                    ],
+                    "well prepared"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    7,
+                    8,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    8,
+                    12,
+                    [
+                        "\u2581imp",
+                        "e",
+                        "c",
+                        "able"
+                    ],
+                    "impecable"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581well', '\u2581prepared', '\u2581and', '\u2581the', '\u2581service', '\u2581imp', 'e', 'c', 'able', '\u2581', '.']",
+        "ID": 11
+    },
+    {
+        "sentence": "The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    5,
+                    [
+                        "\u2581Prix",
+                        "\u2581Fix",
+                        "e",
+                        "\u2581menu"
+                    ],
+                    "Prix Fixe menu"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581worth"
+                    ],
+                    "worth"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581Prix', '\u2581Fix', 'e', '\u2581menu', '\u2581is', '\u2581worth', '\u2581every', '\u2581penny', '\u2581and', '\u2581you', '\u2581get', '\u2581more', '\u2581than', '\u2581enough', '\u2581(', '\u2581both', '\u2581in', '\u2581quantity', '\u2581AND', '\u2581quality', '\u2581', ')', '\u2581', '.']",
+        "ID": 12
+    },
+    {
+        "sentence": "The kitchen however , is almost always slow .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581kitchen"
+                    ],
+                    "kitchen"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581slow"
+                    ],
+                    "slow"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581kitchen', '\u2581however', '\u2581', ',', '\u2581is', '\u2581almost', '\u2581always', '\u2581slow', '\u2581', '.']",
+        "ID": 13
+    },
+    {
+        "sentence": "Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    7,
+                    8,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Add', '\u2581to', '\u2581that', '\u2581great', '\u2581service', '\u2581and', '\u2581great', '\u2581food', '\u2581at', '\u2581', 'a', '\u2581reasonable', '\u2581price', '\u2581and', '\u2581you', '\u2581have', '\u2581yourself', '\u2581the', '\u2581beginning', '\u2581of', '\u2581', 'a', '\u2581great', '\u2581evening', '\u2581', '.']",
+        "ID": 14
+    },
+    {
+        "sentence": "The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    8,
+                    [
+                        "\u2581average",
+                        "\u2581to",
+                        "\u2581above",
+                        "-",
+                        "average"
+                    ],
+                    "average to above-average"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    11,
+                    16,
+                    [
+                        "\u2581French",
+                        "\u2581On",
+                        "i",
+                        "on",
+                        "\u2581soup"
+                    ],
+                    "French Onion soup"
+                ],
+                "opinion": [
+                    19,
+                    23,
+                    [
+                        "\u2581not",
+                        "\u2581over",
+                        "ly",
+                        "\u2581impressive"
+                    ],
+                    "not overly impressive"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    27,
+                    29,
+                    [
+                        "\u2581dessert",
+                        "s"
+                    ],
+                    "desserts"
+                ],
+                "opinion": [
+                    29,
+                    31,
+                    [
+                        "\u2581not",
+                        "\u2581brilliant"
+                    ],
+                    "not brilliant"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581average', '\u2581to', '\u2581above', '-', 'average', '\u2581', ';', '\u2581the', '\u2581French', '\u2581On', 'i', 'on', '\u2581soup', '\u2581fill', 'ing', '\u2581yet', '\u2581not', '\u2581over', 'ly', '\u2581impressive', '\u2581', ',', '\u2581and', '\u2581the', '\u2581dessert', 's', '\u2581not', '\u2581brilliant', '\u2581in', '\u2581any', '\u2581way', '\u2581', '.']",
+        "ID": 15
+    },
+    {
+        "sentence": "This place is the most Japanese it can ever get .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581Japanese"
+                    ],
+                    "Japanese"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581place', '\u2581is', '\u2581the', '\u2581most', '\u2581Japanese', '\u2581it', '\u2581can', '\u2581ever', '\u2581get', '\u2581', '.']",
+        "ID": 16
+    },
+    {
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Leon"
+                    ],
+                    "Leon"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581casual"
+                    ],
+                    "casual"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Leon"
+                    ],
+                    "Leon"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581hip"
+                    ],
+                    "hip"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    17,
+                    22,
+                    [
+                        "\u2581French",
+                        "\u2581bi",
+                        "stro",
+                        "\u2581far",
+                        "e"
+                    ],
+                    "French bistro fare"
+                ],
+                "opinion": [
+                    14,
+                    16,
+                    [
+                        "\u2581well",
+                        "\u2581prepared"
+                    ],
+                    "well prepared"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    25,
+                    27,
+                    [
+                        "\u2581special",
+                        "s"
+                    ],
+                    "specials"
+                ],
+                "opinion": [
+                    24,
+                    25,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    34,
+                    35,
+                    [
+                        "\u2581atmosphere"
+                    ],
+                    "atmosphere"
+                ],
+                "opinion": [
+                    31,
+                    32,
+                    [
+                        "\u2581warm"
+                    ],
+                    "warm"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    34,
+                    35,
+                    [
+                        "\u2581atmosphere"
+                    ],
+                    "atmosphere"
+                ],
+                "opinion": [
+                    33,
+                    34,
+                    [
+                        "\u2581lively"
+                    ],
+                    "lively"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Leon', '\u2581is', '\u2581an', '\u2581East', '\u2581Village', '\u2581gem', '\u2581', ':', '\u2581casual', '\u2581but', '\u2581hip', '\u2581', ',', '\u2581with', '\u2581well', '\u2581prepared', '\u2581basic', '\u2581French', '\u2581bi', 'stro', '\u2581far', 'e', '\u2581', ',', '\u2581good', '\u2581special', 's', '\u2581', ',', '\u2581', 'a', '\u2581warm', '\u2581and', '\u2581lively', '\u2581atmosphere', '\u2581', '.']",
+        "ID": 17
+    },
+    {
+        "sentence": "The food was bland oily .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    6,
+                    [
+                        "\u2581bland",
+                        "\u2581oil",
+                        "y"
+                    ],
+                    "bland oily"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581bland', '\u2581oil', 'y', '\u2581', '.']",
+        "ID": 18
+    },
+    {
+        "sentence": "I went there for lunch and it was not as good as I expected from the reviews I read .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581lunch"
+                    ],
+                    "lunch"
+                ],
+                "opinion": [
+                    8,
+                    14,
+                    [
+                        "\u2581not",
+                        "\u2581as",
+                        "\u2581good",
+                        "\u2581as",
+                        "\u2581I",
+                        "\u2581expected"
+                    ],
+                    "not as good as I expected"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581went', '\u2581there', '\u2581for', '\u2581lunch', '\u2581and', '\u2581it', '\u2581was', '\u2581not', '\u2581as', '\u2581good', '\u2581as', '\u2581I', '\u2581expected', '\u2581from', '\u2581the', '\u2581reviews', '\u2581I', '\u2581read', '\u2581', '.']",
+        "ID": 19
+    },
+    {
+        "sentence": "The place is small and cramped but the food is fantastic .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581small"
+                    ],
+                    "small"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    5,
+                    8,
+                    [
+                        "\u2581cramp",
+                        "e",
+                        "d"
+                    ],
+                    "cramped"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    10,
+                    11,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581fantastic"
+                    ],
+                    "fantastic"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581place', '\u2581is', '\u2581small', '\u2581and', '\u2581cramp', 'e', 'd', '\u2581but', '\u2581the', '\u2581food', '\u2581is', '\u2581fantastic', '\u2581', '.']",
+        "ID": 20
+    },
+    {
+        "sentence": "those rolls were big , but not good and sashimi was n't fresh .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581rolls"
+                    ],
+                    "rolls"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581big"
+                    ],
+                    "big"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581rolls"
+                    ],
+                    "rolls"
+                ],
+                "opinion": [
+                    7,
+                    9,
+                    [
+                        "\u2581not",
+                        "\u2581good"
+                    ],
+                    "not good"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    11,
+                    14,
+                    [
+                        "s",
+                        "ash",
+                        "imi"
+                    ],
+                    "sashimi"
+                ],
+                "opinion": [
+                    14,
+                    20,
+                    [
+                        "\u2581was",
+                        "\u2581",
+                        "n",
+                        "'",
+                        "t",
+                        "\u2581fresh"
+                    ],
+                    "wasn't fresh"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581those', '\u2581rolls', '\u2581were', '\u2581big', '\u2581', ',', '\u2581but', '\u2581not', '\u2581good', '\u2581and', '\u2581', 's', 'ash', 'imi', '\u2581was', '\u2581', 'n', \"'\", 't', '\u2581fresh', '\u2581', '.']",
+        "ID": 21
+    },
+    {
+        "sentence": "Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    8,
+                    [
+                        "\u2581restaurant"
+                    ],
+                    "restaurant"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581warm"
+                    ],
+                    "warm"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    15,
+                    17,
+                    [
+                        "\u2581open",
+                        "\u2581kitchen"
+                    ],
+                    "open kitchen"
+                ],
+                "opinion": [
+                    21,
+                    22,
+                    [
+                        "\u2581charm"
+                    ],
+                    "charm"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Ad', 'mitted', 'ly', '\u2581some', '\u2581nights', '\u2581inside', '\u2581the', '\u2581restaurant', '\u2581were', '\u2581rather', '\u2581warm', '\u2581', ',', '\u2581but', '\u2581the', '\u2581open', '\u2581kitchen', '\u2581is', '\u2581part', '\u2581of', '\u2581the', '\u2581charm', '\u2581', '.']",
+        "ID": 22
+    },
+    {
+        "sentence": "Great wine selection , Gigondas is worth the price , and the house champagne is a great value .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581wine",
+                        "\u2581selection"
+                    ],
+                    "wine selection"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Great"
+                    ],
+                    "Great"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    5,
+                    8,
+                    [
+                        "\u2581Gi",
+                        "gon",
+                        "das"
+                    ],
+                    "Gigondas"
+                ],
+                "opinion": [
+                    9,
+                    12,
+                    [
+                        "\u2581worth",
+                        "\u2581the",
+                        "\u2581price"
+                    ],
+                    "worth the price"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    16,
+                    18,
+                    [
+                        "\u2581house",
+                        "\u2581champagne"
+                    ],
+                    "house champagne"
+                ],
+                "opinion": [
+                    21,
+                    23,
+                    [
+                        "\u2581great",
+                        "\u2581value"
+                    ],
+                    "great value"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Great', '\u2581wine', '\u2581selection', '\u2581', ',', '\u2581Gi', 'gon', 'das', '\u2581is', '\u2581worth', '\u2581the', '\u2581price', '\u2581', ',', '\u2581and', '\u2581the', '\u2581house', '\u2581champagne', '\u2581is', '\u2581', 'a', '\u2581great', '\u2581value', '\u2581', '.']",
+        "ID": 23
+    },
+    {
+        "sentence": "Have recommended the place to friends , always gets good response .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581recommended"
+                    ],
+                    "recommended"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Have', '\u2581recommended', '\u2581the', '\u2581place', '\u2581to', '\u2581friends', '\u2581', ',', '\u2581always', '\u2581gets', '\u2581good', '\u2581response', '\u2581', '.']",
+        "ID": 24
+    },
+    {
+        "sentence": "Service is not exactly five star , but thats not really a big deal .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    2,
+                    6,
+                    [
+                        "\u2581not",
+                        "\u2581exactly",
+                        "\u2581five",
+                        "\u2581star"
+                    ],
+                    "not exactly five star"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581Service', '\u2581is', '\u2581not', '\u2581exactly', '\u2581five', '\u2581star', '\u2581', ',', '\u2581but', '\u2581that', 's', '\u2581not', '\u2581really', '\u2581', 'a', '\u2581big', '\u2581deal', '\u2581', '.']",
+        "ID": 25
+    },
+    {
+        "sentence": "The tuna and wasabe potatoes are excellent .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581tun",
+                        "a"
+                    ],
+                    "tuna"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    4,
+                    8,
+                    [
+                        "\u2581was",
+                        "a",
+                        "be",
+                        "\u2581potatoes"
+                    ],
+                    "wasabe potatoes"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581tun', 'a', '\u2581and', '\u2581was', 'a', 'be', '\u2581potatoes', '\u2581are', '\u2581excellent', '\u2581', '.']",
+        "ID": 26
+    },
+    {
+        "sentence": "Service was prompt and courteous .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581prompt"
+                    ],
+                    "prompt"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581courteous"
+                    ],
+                    "courteous"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Service', '\u2581was', '\u2581prompt', '\u2581and', '\u2581courteous', '\u2581', '.']",
+        "ID": 27
+    },
+    {
+        "sentence": "The pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581pizza"
+                    ],
+                    "pizza"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581pizza', '\u2581is', '\u2581delicious', '\u2581', '-', '\u2581they', '\u2581use', '\u2581fresh', '\u2581mozzarella', '\u2581instead', '\u2581of', '\u2581the', '\u2581cheap', '\u2581', ',', '\u2581frozen', '\u2581', ',', '\u2581', 'shredded', '\u2581cheese', '\u2581common', '\u2581to', '\u2581most', '\u2581pizza', 'r', 'i', 'a', '\u2581', \"'\", 's', '\u2581', '.']",
+        "ID": 28
+    },
+    {
+        "sentence": "Wine list selection is good and wine-by-the-glass was generously filled to the top .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    3,
+                    [
+                        "\u2581Wine",
+                        "\u2581list",
+                        "\u2581selection"
+                    ],
+                    "Wine list selection"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    13,
+                    [
+                        "\u2581wine",
+                        "-",
+                        "by",
+                        "-",
+                        "the",
+                        "-",
+                        "glass"
+                    ],
+                    "wine-by-the-glass"
+                ],
+                "opinion": [
+                    14,
+                    17,
+                    [
+                        "\u2581generous",
+                        "ly",
+                        "\u2581filled"
+                    ],
+                    "generously filled"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Wine', '\u2581list', '\u2581selection', '\u2581is', '\u2581good', '\u2581and', '\u2581wine', '-', 'by', '-', 'the', '-', 'glass', '\u2581was', '\u2581generous', 'ly', '\u2581filled', '\u2581to', '\u2581the', '\u2581top', '\u2581', '.']",
+        "ID": 29
+    },
+    {
+        "sentence": "I have NEVER been disappointed in the Red Eye .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    9,
+                    [
+                        "\u2581Red",
+                        "\u2581Eye"
+                    ],
+                    "Red Eye"
+                ],
+                "opinion": [
+                    2,
+                    5,
+                    [
+                        "\u2581NEVER",
+                        "\u2581been",
+                        "\u2581disappointed"
+                    ],
+                    "NEVER been disappointed"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581have', '\u2581NEVER', '\u2581been', '\u2581disappointed', '\u2581in', '\u2581the', '\u2581Red', '\u2581Eye', '\u2581', '.']",
+        "ID": 30
+    },
+    {
+        "sentence": "The first time I went , and was completely taken by the live jazz band and atmosphere , I ordered the Lobster Cobb Salad .",
+        "triplets": [
+            {
+                "aspect": [
+                    13,
+                    16,
+                    [
+                        "\u2581live",
+                        "\u2581jazz",
+                        "\u2581band"
+                    ],
+                    "live jazz band"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581taken"
+                    ],
+                    "taken"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    17,
+                    18,
+                    [
+                        "\u2581atmosphere"
+                    ],
+                    "atmosphere"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581taken"
+                    ],
+                    "taken"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581first', '\u2581time', '\u2581I', '\u2581went', '\u2581', ',', '\u2581and', '\u2581was', '\u2581completely', '\u2581taken', '\u2581by', '\u2581the', '\u2581live', '\u2581jazz', '\u2581band', '\u2581and', '\u2581atmosphere', '\u2581', ',', '\u2581I', '\u2581ordered', '\u2581the', '\u2581Lob', 'ster', '\u2581Cobb', '\u2581Sala', 'd', '\u2581', '.']",
+        "ID": 31
+    },
+    {
+        "sentence": "My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .",
+        "triplets": [
+            {
+                "aspect": [
+                    17,
+                    24,
+                    [
+                        "\u2581Je",
+                        "ky",
+                        "ll",
+                        "\u2581and",
+                        "\u2581Hy",
+                        "de",
+                        "\u2581Pub"
+                    ],
+                    "Jekyll and Hyde Pub"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    17,
+                    24,
+                    [
+                        "\u2581Je",
+                        "ky",
+                        "ll",
+                        "\u2581and",
+                        "\u2581Hy",
+                        "de",
+                        "\u2581Pub"
+                    ],
+                    "Jekyll and Hyde Pub"
+                ],
+                "opinion": [
+                    35,
+                    36,
+                    [
+                        "\u2581fantastic"
+                    ],
+                    "fantastic"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581My', '\u2581husband', '\u2581and', '\u2581I', '\u2581', 't', 'hou', 'g', 't', '\u2581it', '\u2581would', '\u2581be', '\u2581great', '\u2581to', '\u2581go', '\u2581to', '\u2581the', '\u2581Je', 'ky', 'll', '\u2581and', '\u2581Hy', 'de', '\u2581Pub', '\u2581for', '\u2581our', '\u2581anniversary', '\u2581', ',', '\u2581and', '\u2581to', '\u2581our', '\u2581surprise', '\u2581it', '\u2581was', '\u2581fantastic', '\u2581', '.']",
+        "ID": 32
+    },
+    {
+        "sentence": "The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    9,
+                    [
+                        "\u2581ba",
+                        "gel"
+                    ],
+                    "bagel"
+                ],
+                "opinion": [
+                    17,
+                    18,
+                    [
+                        "\u2581messy"
+                    ],
+                    "messy"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581workers', '\u2581there', '\u2581also', '\u2581absolutely', '\u2581load', '\u2581the', '\u2581ba', 'gel', '\u2581with', '\u2581cream', '\u2581cheese', '\u2581(', '\u2581gets', '\u2581', 'a', '\u2581little', '\u2581messy', '\u2581', ')', '\u2581', '.']",
+        "ID": 33
+    },
+    {
+        "sentence": "I have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    8,
+                    [
+                        "\u2581lobster",
+                        "\u2581roll"
+                    ],
+                    "lobster roll"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581recommend"
+                    ],
+                    "recommend"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    25,
+                    26,
+                    [
+                        "\u2581lobster"
+                    ],
+                    "lobster"
+                ],
+                "opinion": [
+                    24,
+                    25,
+                    [
+                        "\u2581fresh"
+                    ],
+                    "fresh"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581have', '\u2581to', '\u2581highly', '\u2581recommend', '\u2581the', '\u2581lobster', '\u2581roll', '\u2581', '-', '\u2581not', '\u2581to', '\u2581much', '\u2581may', 'o', '\u2581', ';', '\u2581you', '\u2581can', '\u2581tell', '\u2581it', '\u2581was', '\u2581', 'a', '\u2581fresh', '\u2581lobster', '\u2581', '.']",
+        "ID": 34
+    },
+    {
+        "sentence": "The scallion pancakes and fried dumplings were nothing out of the ordinary .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    7,
+                    [
+                        "s",
+                        "cal",
+                        "lion",
+                        "\u2581pancake",
+                        "s"
+                    ],
+                    "scallion pancakes"
+                ],
+                "opinion": [
+                    18,
+                    19,
+                    [
+                        "\u2581ordinary"
+                    ],
+                    "ordinary"
+                ],
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": [
+                    9,
+                    13,
+                    [
+                        "fried",
+                        "\u2581dump",
+                        "ling",
+                        "s"
+                    ],
+                    "fried dumplings"
+                ],
+                "opinion": [
+                    18,
+                    19,
+                    [
+                        "\u2581ordinary"
+                    ],
+                    "ordinary"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581', 's', 'cal', 'lion', '\u2581pancake', 's', '\u2581and', '\u2581', 'fried', '\u2581dump', 'ling', 's', '\u2581were', '\u2581nothing', '\u2581out', '\u2581of', '\u2581the', '\u2581ordinary', '\u2581', '.']",
+        "ID": 35
+    },
+    {
+        "sentence": "Salads were fantastic .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    3,
+                    [
+                        "\u2581Sala",
+                        "d",
+                        "s"
+                    ],
+                    "Salads"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581fantastic"
+                    ],
+                    "fantastic"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Sala', 'd', 's', '\u2581were', '\u2581fantastic', '\u2581', '.']",
+        "ID": 36
+    },
+    {
+        "sentence": "The takeout is great too since they give high quality tupperware as well .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581take",
+                        "out"
+                    ],
+                    "takeout"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581take', 'out', '\u2581is', '\u2581great', '\u2581too', '\u2581since', '\u2581they', '\u2581give', '\u2581high', '\u2581quality', '\u2581', 't', 'upper', 'ware', '\u2581as', '\u2581well', '\u2581', '.']",
+        "ID": 37
+    },
+    {
+        "sentence": "The staff was accomodating , the food was absolutely delicious and the place is lovely .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581staff"
+                    ],
+                    "staff"
+                ],
+                "opinion": [
+                    4,
+                    7,
+                    [
+                        "acco",
+                        "mod",
+                        "ating"
+                    ],
+                    "accomodating"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    10,
+                    11,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    13,
+                    14,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    16,
+                    17,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    18,
+                    19,
+                    [
+                        "\u2581lovely"
+                    ],
+                    "lovely"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581staff', '\u2581was', '\u2581', 'acco', 'mod', 'ating', '\u2581', ',', '\u2581the', '\u2581food', '\u2581was', '\u2581absolutely', '\u2581delicious', '\u2581and', '\u2581the', '\u2581place', '\u2581is', '\u2581lovely', '\u2581', '.']",
+        "ID": 38
+    },
+    {
+        "sentence": "The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .",
+        "triplets": [
+            {
+                "aspect": [
+                    13,
+                    14,
+                    [
+                        "\u2581dishes"
+                    ],
+                    "dishes"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581simple"
+                    ],
+                    "simple"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    15,
+                    16,
+                    [
+                        "\u2581wine"
+                    ],
+                    "wine"
+                ],
+                "opinion": [
+                    16,
+                    18,
+                    [
+                        "\u2581served",
+                        "\u2581efficiently"
+                    ],
+                    "served efficiently"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    23,
+                    24,
+                    [
+                        "\u2581atmosphere"
+                    ],
+                    "atmosphere"
+                ],
+                "opinion": [
+                    21,
+                    23,
+                    [
+                        "\u2581bustl",
+                        "ing"
+                    ],
+                    "bustling"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581place', '\u2581is', '\u2581', 'a', '\u2581B', 'IST', 'RO', '\u2581which', '\u2581means', '\u2581', ':', '\u2581simple', '\u2581dishes', '\u2581and', '\u2581wine', '\u2581served', '\u2581efficiently', '\u2581in', '\u2581', 'a', '\u2581bustl', 'ing', '\u2581atmosphere', '\u2581', '.']",
+        "ID": 39
+    },
+    {
+        "sentence": "Right off the L in Brooklyn this is a nice cozy place with good pizza .",
+        "triplets": [
+            {
+                "aspect": [
+                    12,
+                    13,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    10,
+                    12,
+                    [
+                        "\u2581nice",
+                        "\u2581cozy"
+                    ],
+                    "nice cozy"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    15,
+                    16,
+                    [
+                        "\u2581pizza"
+                    ],
+                    "pizza"
+                ],
+                "opinion": [
+                    14,
+                    15,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Right', '\u2581off', '\u2581the', '\u2581L', '\u2581in', '\u2581Brooklyn', '\u2581this', '\u2581is', '\u2581', 'a', '\u2581nice', '\u2581cozy', '\u2581place', '\u2581with', '\u2581good', '\u2581pizza', '\u2581', '.']",
+        "ID": 40
+    },
+    {
+        "sentence": "It 's a nice place to relax and have conversation .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    8,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581nice"
+                    ],
+                    "nice"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581It', '\u2581', \"'\", 's', '\u2581', 'a', '\u2581nice', '\u2581place', '\u2581to', '\u2581relax', '\u2581and', '\u2581have', '\u2581conversation', '\u2581', '.']",
+        "ID": 41
+    },
+    {
+        "sentence": "This is my first time writing a review for a restaurant because the food and service was excellent .",
+        "triplets": [
+            {
+                "aspect": [
+                    15,
+                    16,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    19,
+                    20,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    17,
+                    18,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    19,
+                    20,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581is', '\u2581my', '\u2581first', '\u2581time', '\u2581writing', '\u2581', 'a', '\u2581review', '\u2581for', '\u2581', 'a', '\u2581restaurant', '\u2581because', '\u2581the', '\u2581food', '\u2581and', '\u2581service', '\u2581was', '\u2581excellent', '\u2581', '.']",
+        "ID": 42
+    },
+    {
+        "sentence": "The filet mignon dish was superb !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    7,
+                    [
+                        "\u2581file",
+                        "t",
+                        "\u2581",
+                        "m",
+                        "ignon",
+                        "\u2581dish"
+                    ],
+                    "filet mignon dish"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581superb"
+                    ],
+                    "superb"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581file', 't', '\u2581', 'm', 'ignon', '\u2581dish', '\u2581was', '\u2581superb', '\u2581', '!']",
+        "ID": 43
+    },
+    {
+        "sentence": "I like the ambience , it 's very dark and original .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581ambience"
+                    ],
+                    "ambience"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581like"
+                    ],
+                    "like"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581ambience"
+                    ],
+                    "ambience"
+                ],
+                "opinion": [
+                    11,
+                    12,
+                    [
+                        "\u2581dark"
+                    ],
+                    "dark"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581ambience"
+                    ],
+                    "ambience"
+                ],
+                "opinion": [
+                    13,
+                    14,
+                    [
+                        "\u2581original"
+                    ],
+                    "original"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581like', '\u2581the', '\u2581ambience', '\u2581', ',', '\u2581it', '\u2581', \"'\", 's', '\u2581very', '\u2581dark', '\u2581and', '\u2581original', '\u2581', '.']",
+        "ID": 44
+    },
+    {
+        "sentence": "The sushi is amazing ! ! !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581sushi"
+                    ],
+                    "sushi"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581amazing"
+                    ],
+                    "amazing"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581sushi', '\u2581is', '\u2581amazing', '\u2581', '!', '\u2581', '!', '\u2581', '!']",
+        "ID": 45
+    },
+    {
+        "sentence": "Very affordable and excellent ambient !",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581ambient"
+                    ],
+                    "ambient"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581affordable"
+                    ],
+                    "affordable"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581ambient"
+                    ],
+                    "ambient"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Very', '\u2581affordable', '\u2581and', '\u2581excellent', '\u2581ambient', '\u2581', '!']",
+        "ID": 46
+    },
+    {
+        "sentence": "My Girlfriend and I stumbled onto this hopping place the other night and had a great time !",
+        "triplets": [
+            {
+                "aspect": [
+                    11,
+                    12,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "hopping"
+                    ],
+                    "hopping"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    11,
+                    12,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    19,
+                    21,
+                    [
+                        "\u2581great",
+                        "\u2581time"
+                    ],
+                    "great time"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581My', '\u2581Girl', 'friend', '\u2581and', '\u2581I', '\u2581', 'stumbled', '\u2581onto', '\u2581this', '\u2581', 'hopping', '\u2581place', '\u2581the', '\u2581other', '\u2581night', '\u2581and', '\u2581had', '\u2581', 'a', '\u2581great', '\u2581time', '\u2581', '!']",
+        "ID": 47
+    },
+    {
+        "sentence": "To be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of Teodora .",
+        "triplets": [
+            {
+                "aspect": [
+                    13,
+                    14,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    18,
+                    20,
+                    [
+                        "\u2581above",
+                        "\u2581average"
+                    ],
+                    "above average"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    36,
+                    39,
+                    [
+                        "\u2581Te",
+                        "odor",
+                        "a"
+                    ],
+                    "Teodora"
+                ],
+                "opinion": [
+                    34,
+                    35,
+                    [
+                        "\u2581deficiencies"
+                    ],
+                    "deficiencies"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581To', '\u2581be', '\u2581completely', '\u2581fair', '\u2581', ',', '\u2581the', '\u2581only', '\u2581redeem', 'ing', '\u2581factor', '\u2581was', '\u2581the', '\u2581food', '\u2581', ',', '\u2581which', '\u2581was', '\u2581above', '\u2581average', '\u2581', ',', '\u2581but', '\u2581could', '\u2581', 'n', \"'\", 't', '\u2581make', '\u2581up', '\u2581for', '\u2581all', '\u2581the', '\u2581other', '\u2581deficiencies', '\u2581of', '\u2581Te', 'odor', 'a', '\u2581', '.']",
+        "ID": 48
+    },
+    {
+        "sentence": "One of us actually liked the expresso - that 's it .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    8,
+                    [
+                        "\u2581express",
+                        "o"
+                    ],
+                    "expresso"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581liked"
+                    ],
+                    "liked"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581One', '\u2581of', '\u2581us', '\u2581actually', '\u2581liked', '\u2581the', '\u2581express', 'o', '\u2581', '-', '\u2581that', '\u2581', \"'\", 's', '\u2581it', '\u2581', '.']",
+        "ID": 49
+    },
+    {
+        "sentence": "We did n't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough .",
+        "triplets": [
+            {
+                "aspect": [
+                    23,
+                    27,
+                    [
+                        "\u2581bottles",
+                        "\u2581of",
+                        "\u2581Kor",
+                        "bett"
+                    ],
+                    "bottles of Korbett"
+                ],
+                "opinion": [
+                    30,
+                    31,
+                    [
+                        "\u2581enough"
+                    ],
+                    "enough"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581We', '\u2581did', '\u2581', 'n', \"'\", 't', '\u2581want', '\u2581', 'a', '\u2581bottle', '\u2581of', '\u2581bubbl', 'y', '\u2581on', '\u2581', 'a', '\u2581week', 'day', '\u2581so', '\u2581we', '\u2581each', '\u2581got', '\u2581little', '\u2581bottles', '\u2581of', '\u2581Kor', 'bett', '\u2581it', '\u2581was', '\u2581just', '\u2581enough', '\u2581', '.']",
+        "ID": 50
+    },
+    {
+        "sentence": "Problem is nothing at Prune is particularly memorable .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    6,
+                    [
+                        "\u2581Pr",
+                        "une"
+                    ],
+                    "Prune"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581memorable"
+                    ],
+                    "memorable"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Problem', '\u2581is', '\u2581nothing', '\u2581at', '\u2581Pr', 'une', '\u2581is', '\u2581particularly', '\u2581memorable', '\u2581', '.']",
+        "ID": 51
+    },
+    {
+        "sentence": "Our food was great too !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Our', '\u2581food', '\u2581was', '\u2581great', '\u2581too', '\u2581', '!']",
+        "ID": 52
+    },
+    {
+        "sentence": "And really large portions .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581portions"
+                    ],
+                    "portions"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581large"
+                    ],
+                    "large"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581And', '\u2581really', '\u2581large', '\u2581portions', '\u2581', '.']",
+        "ID": 53
+    },
+    {
+        "sentence": "The food however , is what one might expect .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581expect"
+                    ],
+                    "expect"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581however', '\u2581', ',', '\u2581is', '\u2581what', '\u2581one', '\u2581might', '\u2581expect', '\u2581', '.']",
+        "ID": 54
+    },
+    {
+        "sentence": "Prices too high for this cramped and unappealing resturant .",
+        "triplets": [
+            {
+                "aspect": [
+                    14,
+                    17,
+                    [
+                        "\u2581rest",
+                        "ur",
+                        "ant"
+                    ],
+                    "resturant"
+                ],
+                "opinion": [
+                    5,
+                    8,
+                    [
+                        "\u2581cramp",
+                        "e",
+                        "d"
+                    ],
+                    "cramped"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    14,
+                    17,
+                    [
+                        "\u2581rest",
+                        "ur",
+                        "ant"
+                    ],
+                    "resturant"
+                ],
+                "opinion": [
+                    9,
+                    14,
+                    [
+                        "\u2581un",
+                        "app",
+                        "e",
+                        "a",
+                        "ling"
+                    ],
+                    "unappealing"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Prices', '\u2581too', '\u2581high', '\u2581for', '\u2581this', '\u2581cramp', 'e', 'd', '\u2581and', '\u2581un', 'app', 'e', 'a', 'ling', '\u2581rest', 'ur', 'ant', '\u2581', '.']",
+        "ID": 55
+    },
+    {
+        "sentence": "Thius is a must for anyone who loves Shabu-Shabu .",
+        "triplets": [
+            {
+                "aspect": [
+                    10,
+                    16,
+                    [
+                        "\u2581Sha",
+                        "bu",
+                        "-",
+                        "S",
+                        "hab",
+                        "u"
+                    ],
+                    "Shabu-Shabu"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581loves"
+                    ],
+                    "loves"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Thi', 'us', '\u2581is', '\u2581', 'a', '\u2581must', '\u2581for', '\u2581anyone', '\u2581who', '\u2581loves', '\u2581Sha', 'bu', '-', 'S', 'hab', 'u', '\u2581', '.']",
+        "ID": 56
+    },
+    {
+        "sentence": "Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    7,
+                    [
+                        "\u2581menu"
+                    ],
+                    "menu"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581limited"
+                    ],
+                    "limited"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581', 'Despite', '\u2581', 'a', '\u2581slightly', '\u2581limited', '\u2581menu', '\u2581', ',', '\u2581everything', '\u2581prepared', '\u2581is', '\u2581done', '\u2581to', '\u2581perfection', '\u2581', ',', '\u2581ultra', '\u2581fresh', '\u2581and', '\u2581', 'a', '\u2581work', '\u2581of', '\u2581food', '\u2581art', '\u2581', '.']",
+        "ID": 57
+    },
+    {
+        "sentence": "The location and ambience is Ok but the food is what makes up for it .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581location"
+                    ],
+                    "location"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581Ok"
+                    ],
+                    "Ok"
+                ],
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581ambience"
+                    ],
+                    "ambience"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581Ok"
+                    ],
+                    "Ok"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581location', '\u2581and', '\u2581ambience', '\u2581is', '\u2581Ok', '\u2581but', '\u2581the', '\u2581food', '\u2581is', '\u2581what', '\u2581makes', '\u2581up', '\u2581for', '\u2581it', '\u2581', '.']",
+        "ID": 58
+    },
+    {
+        "sentence": "I found the food , service and value exceptional everytime I have been there .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581exceptional"
+                    ],
+                    "exceptional"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    7,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581exceptional"
+                    ],
+                    "exceptional"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581found', '\u2581the', '\u2581food', '\u2581', ',', '\u2581service', '\u2581and', '\u2581value', '\u2581exceptional', '\u2581every', 'time', '\u2581I', '\u2581have', '\u2581been', '\u2581there', '\u2581', '.']",
+        "ID": 59
+    },
+    {
+        "sentence": "The service was excellent - friendly and attentive .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581attentive"
+                    ],
+                    "attentive"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581service', '\u2581was', '\u2581excellent', '\u2581', '-', '\u2581friendly', '\u2581and', '\u2581attentive', '\u2581', '.']",
+        "ID": 60
+    },
+    {
+        "sentence": "Very good wine choices .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    4,
+                    [
+                        "\u2581wine",
+                        "\u2581choices"
+                    ],
+                    "wine choices"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Very', '\u2581good', '\u2581wine', '\u2581choices', '\u2581', '.']",
+        "ID": 61
+    },
+    {
+        "sentence": "Great staff .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581staff"
+                    ],
+                    "staff"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Great"
+                    ],
+                    "Great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Great', '\u2581staff', '\u2581', '.']",
+        "ID": 62
+    },
+    {
+        "sentence": "But the staff was so horrible to us .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    3,
+                    [
+                        "\u2581staff"
+                    ],
+                    "staff"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581horrible"
+                    ],
+                    "horrible"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581But', '\u2581the', '\u2581staff', '\u2581was', '\u2581so', '\u2581horrible', '\u2581to', '\u2581us', '\u2581', '.']",
+        "ID": 63
+    },
+    {
+        "sentence": "This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    3,
+                    5,
+                    [
+                        "\u2581price",
+                        "y"
+                    ],
+                    "pricey"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    12,
+                    13,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    14,
+                    15,
+                    [
+                        "\u2581worth"
+                    ],
+                    "worth"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581place', '\u2581is', '\u2581price', 'y', '\u2581', ',', '\u2581and', '\u2581yes', '\u2581', ',', '\u2581the', '\u2581food', '\u2581is', '\u2581worth', '\u2581it', '\u2581', ';', '\u2581but', '\u2581the', '\u2581service', '\u2581makes', '\u2581you', '\u2581feel', '\u2581like', '\u2581you', '\u2581should', '\u2581be', '\u2581paying', '\u2581', 'a', '\u2581', 'qua', 'ter', '\u2581of', '\u2581the', '\u2581price', '\u2581', '.']",
+        "ID": 64
+    },
+    {
+        "sentence": "Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .",
+        "triplets": [
+            {
+                "aspect": [
+                    13,
+                    15,
+                    [
+                        "\u2581vegetarian",
+                        "\u2581dishes"
+                    ],
+                    "vegetarian dishes"
+                ],
+                "opinion": [
+                    20,
+                    24,
+                    [
+                        "\u2581not",
+                        "\u2581up",
+                        "\u2581to",
+                        "\u2581par"
+                    ],
+                    "not up to par"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Do', '\u2581', 'n', \"'\", 't', '\u2581din', 'e', '\u2581at', '\u2581Ta', 'marin', 'd', '\u2581for', '\u2581the', '\u2581vegetarian', '\u2581dishes', '\u2581', ',', '\u2581they', '\u2581are', '\u2581simply', '\u2581not', '\u2581up', '\u2581to', '\u2581par', '\u2581with', '\u2581the', '\u2581non', '-', 've', 'g', '\u2581selection', 's', '\u2581', '.']",
+        "ID": 65
+    },
+    {
+        "sentence": "Decor is nice though service can be spotty .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Decor"
+                    ],
+                    "Decor"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581nice"
+                    ],
+                    "nice"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    7,
+                    10,
+                    [
+                        "\u2581spot",
+                        "t",
+                        "y"
+                    ],
+                    "spotty"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Decor', '\u2581is', '\u2581nice', '\u2581though', '\u2581service', '\u2581can', '\u2581be', '\u2581spot', 't', 'y', '\u2581', '.']",
+        "ID": 66
+    },
+    {
+        "sentence": "I am happy i did the food was awsome .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    8,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    10,
+                    13,
+                    [
+                        "a",
+                        "w",
+                        "some"
+                    ],
+                    "awsome"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581am', '\u2581happy', '\u2581', 'i', '\u2581did', '\u2581the', '\u2581food', '\u2581was', '\u2581', 'a', 'w', 'some', '\u2581', '.']",
+        "ID": 67
+    },
+    {
+        "sentence": "limited menu , no-so-fresh ingredients , thinly-sliced fish , fall-apart rice .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581menu"
+                    ],
+                    "menu"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581limited"
+                    ],
+                    "limited"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    10,
+                    11,
+                    [
+                        "\u2581ingredients"
+                    ],
+                    "ingredients"
+                ],
+                "opinion": [
+                    4,
+                    10,
+                    [
+                        "\u2581no",
+                        "-",
+                        "s",
+                        "o",
+                        "-",
+                        "fresh"
+                    ],
+                    "no-so-fresh"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    17,
+                    18,
+                    [
+                        "\u2581fish"
+                    ],
+                    "fish"
+                ],
+                "opinion": [
+                    13,
+                    17,
+                    [
+                        "\u2581thin",
+                        "ly",
+                        "-",
+                        "sliced"
+                    ],
+                    "thinly-sliced"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    24,
+                    25,
+                    [
+                        "\u2581rice"
+                    ],
+                    "rice"
+                ],
+                "opinion": [
+                    20,
+                    24,
+                    [
+                        "\u2581fall",
+                        "-",
+                        "a",
+                        "part"
+                    ],
+                    "fall-apart"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581limited', '\u2581menu', '\u2581', ',', '\u2581no', '-', 's', 'o', '-', 'fresh', '\u2581ingredients', '\u2581', ',', '\u2581thin', 'ly', '-', 'sliced', '\u2581fish', '\u2581', ',', '\u2581fall', '-', 'a', 'part', '\u2581rice', '\u2581', '.']",
+        "ID": 68
+    },
+    {
+        "sentence": "With the theater 2 blocks away we had a delicious meal in a beautiful room .",
+        "triplets": [
+            {
+                "aspect": [
+                    11,
+                    12,
+                    [
+                        "\u2581meal"
+                    ],
+                    "meal"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    16,
+                    17,
+                    [
+                        "\u2581room"
+                    ],
+                    "room"
+                ],
+                "opinion": [
+                    15,
+                    16,
+                    [
+                        "\u2581beautiful"
+                    ],
+                    "beautiful"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581With', '\u2581the', '\u2581theater', '\u25812', '\u2581blocks', '\u2581away', '\u2581we', '\u2581had', '\u2581', 'a', '\u2581delicious', '\u2581meal', '\u2581in', '\u2581', 'a', '\u2581beautiful', '\u2581room', '\u2581', '.']",
+        "ID": 69
+    },
+    {
+        "sentence": "The seats are uncomfortable if you are sitting against the wall on wooden benches .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581seats"
+                    ],
+                    "seats"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581uncomfortable"
+                    ],
+                    "uncomfortable"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581seats', '\u2581are', '\u2581uncomfortable', '\u2581', 'if', '\u2581you', '\u2581are', '\u2581sitting', '\u2581against', '\u2581the', '\u2581wall', '\u2581on', '\u2581wooden', '\u2581benches', '\u2581', '.']",
+        "ID": 70
+    },
+    {
+        "sentence": "Waitstaff are very friendly .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    2,
+                    [
+                        "\u2581Wait",
+                        "staff"
+                    ],
+                    "Waitstaff"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Wait', 'staff', '\u2581are', '\u2581very', '\u2581friendly', '\u2581', '.']",
+        "ID": 71
+    },
+    {
+        "sentence": "The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581lobster",
+                        "\u2581sandwich"
+                    ],
+                    "lobster sandwich"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581lobster",
+                        "\u2581sandwich"
+                    ],
+                    "lobster sandwich"
+                ],
+                "opinion": [
+                    13,
+                    20,
+                    [
+                        "\u2581not",
+                        "\u2581nearly",
+                        "\u2581enough",
+                        "\u2581to",
+                        "\u2581warrant",
+                        "\u2581that",
+                        "\u2581price"
+                    ],
+                    "not nearly enough to warrant that price"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581lobster', '\u2581sandwich', '\u2581is', '\u2581$', '\u258124', '\u2581and', '\u2581although', '\u2581it', '\u2581was', '\u2581good', '\u2581it', '\u2581was', '\u2581not', '\u2581nearly', '\u2581enough', '\u2581to', '\u2581warrant', '\u2581that', '\u2581price', '\u2581', '.']",
+        "ID": 72
+    },
+    {
+        "sentence": "The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top-notch .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    26,
+                    27,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    28,
+                    31,
+                    [
+                        "\u2581top",
+                        "-",
+                        "notch"
+                    ],
+                    "top-notch"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581delicious', '\u2581(', '\u2581I', '\u2581had', '\u2581', 'a', '\u2581', 'hal', 'i', 'but', '\u2581special', '\u2581', ',', '\u2581my', '\u2581husband', '\u2581had', '\u2581steak', '\u2581', ')', '\u2581', ',', '\u2581and', '\u2581the', '\u2581service', '\u2581was', '\u2581top', '-', 'notch', '\u2581', '.']",
+        "ID": 73
+    },
+    {
+        "sentence": "I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .",
+        "triplets": [
+            {
+                "aspect": [
+                    14,
+                    15,
+                    [
+                        "\u2581atmosphere"
+                    ],
+                    "atmosphere"
+                ],
+                "opinion": [
+                    17,
+                    18,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581almost', '\u2581', 'he', 's', 'it', 'itate', '\u2581to', '\u2581write', '\u2581', 'a', '\u2581review', '\u2581because', '\u2581the', '\u2581atmosphere', '\u2581was', '\u2581so', '\u2581great', '\u2581and', '\u2581I', '\u2581would', '\u2581hate', '\u2581for', '\u2581it', '\u2581too', '\u2581become', '\u2581to', '\u2581', 'crowded', '\u2581', '.']",
+        "ID": 74
+    },
+    {
+        "sentence": "Service is average .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581average"
+                    ],
+                    "average"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581Service', '\u2581is', '\u2581average', '\u2581', '.']",
+        "ID": 75
+    },
+    {
+        "sentence": "The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581ambience"
+                    ],
+                    "ambience"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581fun"
+                    ],
+                    "fun"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    21,
+                    22,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    24,
+                    25,
+                    [
+                        "\u2581tasty"
+                    ],
+                    "tasty"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581ambience', '\u2581was', '\u2581so', '\u2581fun', '\u2581', ',', '\u2581and', '\u2581the', '\u2581prices', '\u2581were', '\u2581great', '\u2581', ',', '\u2581on', '\u2581top', '\u2581of', '\u2581the', '\u2581fact', '\u2581that', '\u2581the', '\u2581food', '\u2581was', '\u2581really', '\u2581tasty', '\u2581', '.']",
+        "ID": 76
+    },
+    {
+        "sentence": "I would highly recommend this place !",
+        "triplets": [
+            {
+                "aspect": [
+                    5,
+                    6,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581recommend"
+                    ],
+                    "recommend"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581would', '\u2581highly', '\u2581recommend', '\u2581this', '\u2581place', '\u2581', '!']",
+        "ID": 77
+    },
+    {
+        "sentence": "Nice Family owned traditional restaurant .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581restaurant"
+                    ],
+                    "restaurant"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581traditional"
+                    ],
+                    "traditional"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Nice', '\u2581Family', '\u2581owned', '\u2581traditional', '\u2581restaurant', '\u2581', '.']",
+        "ID": 78
+    },
+    {
+        "sentence": "Fresh ingredients and everything is made to order .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581ingredients"
+                    ],
+                    "ingredients"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Fresh"
+                    ],
+                    "Fresh"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Fresh', '\u2581ingredients', '\u2581and', '\u2581everything', '\u2581is', '\u2581made', '\u2581to', '\u2581order', '\u2581', '.']",
+        "ID": 79
+    },
+    {
+        "sentence": "My friends settled for rice dishes , but we came back the following day to try the dim sum , which was good ... not outstanding , but good .",
+        "triplets": [
+            {
+                "aspect": [
+                    18,
+                    20,
+                    [
+                        "\u2581dim",
+                        "\u2581sum"
+                    ],
+                    "dim sum"
+                ],
+                "opinion": [
+                    24,
+                    25,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": [
+                    18,
+                    20,
+                    [
+                        "\u2581dim",
+                        "\u2581sum"
+                    ],
+                    "dim sum"
+                ],
+                "opinion": [
+                    27,
+                    29,
+                    [
+                        "\u2581not",
+                        "\u2581outstanding"
+                    ],
+                    "not outstanding"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581My', '\u2581friends', '\u2581settled', '\u2581for', '\u2581rice', '\u2581dishes', '\u2581', ',', '\u2581but', '\u2581we', '\u2581came', '\u2581back', '\u2581the', '\u2581following', '\u2581day', '\u2581to', '\u2581try', '\u2581the', '\u2581dim', '\u2581sum', '\u2581', ',', '\u2581which', '\u2581was', '\u2581good', '\u2581', '...', '\u2581not', '\u2581outstanding', '\u2581', ',', '\u2581but', '\u2581good', '\u2581', '.']",
+        "ID": 80
+    },
+    {
+        "sentence": "I would recommend Roxy 's for that , but not for their food .",
+        "triplets": [
+            {
+                "aspect": [
+                    16,
+                    17,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581recommend"
+                    ],
+                    "recommend"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581would', '\u2581recommend', '\u2581Rox', 'y', '\u2581', \"'\", 's', '\u2581for', '\u2581that', '\u2581', ',', '\u2581but', '\u2581not', '\u2581for', '\u2581their', '\u2581food', '\u2581', '.']",
+        "ID": 81
+    },
+    {
+        "sentence": "I had a huge pastrami sandwich on a roll .",
+        "triplets": [
+            {
+                "aspect": [
+                    5,
+                    13,
+                    [
+                        "\u2581past",
+                        "ram",
+                        "i",
+                        "\u2581sandwich",
+                        "\u2581on",
+                        "\u2581",
+                        "a",
+                        "\u2581roll"
+                    ],
+                    "pastrami sandwich on a roll"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581huge"
+                    ],
+                    "huge"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581had', '\u2581', 'a', '\u2581huge', '\u2581past', 'ram', 'i', '\u2581sandwich', '\u2581on', '\u2581', 'a', '\u2581roll', '\u2581', '.']",
+        "ID": 82
+    },
+    {
+        "sentence": "We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .",
+        "triplets": [
+            {
+                "aspect": [
+                    24,
+                    25,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    21,
+                    22,
+                    [
+                        "\u2581impressed"
+                    ],
+                    "impressed"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581We', '\u2581went', '\u2581here', '\u2581for', '\u2581lunch', '\u2581', 'a', '\u2581couple', '\u2581of', '\u2581weeks', '\u2581ago', '\u2581on', '\u2581', 'a', '\u2581Saturday', '\u2581', ',', '\u2581and', '\u2581I', '\u2581was', '\u2581thoroughly', '\u2581impressed', '\u2581with', '\u2581the', '\u2581food', '\u2581', '.']",
+        "ID": 83
+    },
+    {
+        "sentence": "We had the scallops as an appetizer and they were delicious and the sauce was wonderful .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    5,
+                    [
+                        "\u2581scallop",
+                        "s"
+                    ],
+                    "scallops"
+                ],
+                "opinion": [
+                    11,
+                    12,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    14,
+                    15,
+                    [
+                        "\u2581sauce"
+                    ],
+                    "sauce"
+                ],
+                "opinion": [
+                    16,
+                    17,
+                    [
+                        "\u2581wonderful"
+                    ],
+                    "wonderful"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581We', '\u2581had', '\u2581the', '\u2581scallop', 's', '\u2581as', '\u2581an', '\u2581appetizer', '\u2581and', '\u2581they', '\u2581were', '\u2581delicious', '\u2581and', '\u2581the', '\u2581sauce', '\u2581was', '\u2581wonderful', '\u2581', '.']",
+        "ID": 84
+    },
+    {
+        "sentence": "The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581dishes"
+                    ],
+                    "dishes"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581unique"
+                    ],
+                    "unique"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581dishes"
+                    ],
+                    "dishes"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581tasty"
+                    ],
+                    "tasty"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581dishes"
+                    ],
+                    "dishes"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581fresh"
+                    ],
+                    "fresh"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    34,
+                    41,
+                    [
+                        "p",
+                        "ist",
+                        "achi",
+                        "o",
+                        "\u2581",
+                        "ice",
+                        "\u2581cream"
+                    ],
+                    "pistachio ice cream"
+                ],
+                "opinion": [
+                    32,
+                    33,
+                    [
+                        "\u2581amazing"
+                    ],
+                    "amazing"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581dishes', '\u2581offered', '\u2581were', '\u2581unique', '\u2581', ',', '\u2581very', '\u2581tasty', '\u2581and', '\u2581fresh', '\u2581from', '\u2581the', '\u2581lamb', '\u2581sausage', 's', '\u2581', ',', '\u2581', 's', 'ard', 'ines', '\u2581with', '\u2581biscuit', 's', '\u2581', ',', '\u2581large', '\u2581whole', '\u2581shrimp', '\u2581to', '\u2581the', '\u2581amazing', '\u2581', 'p', 'ist', 'achi', 'o', '\u2581', 'ice', '\u2581cream', '\u2581(', '\u2581the', '\u2581best', '\u2581and', '\u2581fresh', 'est', '\u2581I', '\u2581', \"'\", 've', '\u2581ever', '\u2581had', '\u2581', ')', '\u2581', '.']",
+        "ID": 85
+    },
+    {
+        "sentence": "I 'm glad I was introduced to this place and this is a rare gem in NY .",
+        "triplets": [
+            {
+                "aspect": [
+                    10,
+                    11,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581glad"
+                    ],
+                    "glad"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581', \"'\", 'm', '\u2581glad', '\u2581I', '\u2581was', '\u2581introduced', '\u2581to', '\u2581this', '\u2581place', '\u2581and', '\u2581this', '\u2581is', '\u2581', 'a', '\u2581rare', '\u2581gem', '\u2581in', '\u2581NY', '\u2581', '.']",
+        "ID": 86
+    },
+    {
+        "sentence": "The service was excellent and the food was delicious .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    7,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581service', '\u2581was', '\u2581excellent', '\u2581and', '\u2581the', '\u2581food', '\u2581was', '\u2581delicious', '\u2581', '.']",
+        "ID": 87
+    },
+    {
+        "sentence": "The food arrived 20 minutes after I called , cold and soggy .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    10,
+                    11,
+                    [
+                        "\u2581cold"
+                    ],
+                    "cold"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    12,
+                    14,
+                    [
+                        "\u2581so",
+                        "ggy"
+                    ],
+                    "soggy"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581arrived', '\u258120', '\u2581minutes', '\u2581after', '\u2581I', '\u2581called', '\u2581', ',', '\u2581cold', '\u2581and', '\u2581so', 'ggy', '\u2581', '.']",
+        "ID": 88
+    },
+    {
+        "sentence": "The food looked very appetizing and delicious since it came on a variety of fancy plates .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    4,
+                    8,
+                    [
+                        "\u2581app",
+                        "e",
+                        "t",
+                        "izing"
+                    ],
+                    "appetizing"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    9,
+                    10,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581looked', '\u2581very', '\u2581app', 'e', 't', 'izing', '\u2581and', '\u2581delicious', '\u2581since', '\u2581it', '\u2581came', '\u2581on', '\u2581', 'a', '\u2581variety', '\u2581of', '\u2581fancy', '\u2581plates', '\u2581', '.']",
+        "ID": 89
+    },
+    {
+        "sentence": "By far , the best pizza in Manhattan .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    7,
+                    [
+                        "\u2581pizza"
+                    ],
+                    "pizza"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581best"
+                    ],
+                    "best"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581By', '\u2581far', '\u2581', ',', '\u2581the', '\u2581best', '\u2581pizza', '\u2581in', '\u2581Manhattan', '\u2581', '.']",
+        "ID": 90
+    },
+    {
+        "sentence": "The food was mediocre at best but it was the horrible service that made me vow never to go back .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    4,
+                    6,
+                    [
+                        "mediocr",
+                        "e"
+                    ],
+                    "mediocre"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    13,
+                    14,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581horrible"
+                    ],
+                    "horrible"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581', 'mediocr', 'e', '\u2581at', '\u2581best', '\u2581but', '\u2581it', '\u2581was', '\u2581the', '\u2581horrible', '\u2581service', '\u2581that', '\u2581made', '\u2581me', '\u2581vow', '\u2581never', '\u2581to', '\u2581go', '\u2581back', '\u2581', '.']",
+        "ID": 91
+    },
+    {
+        "sentence": "While their kitchen food is delicious , their Sushi is out of this world .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    4,
+                    [
+                        "\u2581kitchen",
+                        "\u2581food"
+                    ],
+                    "kitchen food"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    9,
+                    11,
+                    [
+                        "\u2581Su",
+                        "shi"
+                    ],
+                    "Sushi"
+                ],
+                "opinion": [
+                    12,
+                    16,
+                    [
+                        "\u2581out",
+                        "\u2581of",
+                        "\u2581this",
+                        "\u2581world"
+                    ],
+                    "out of this world"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581While', '\u2581their', '\u2581kitchen', '\u2581food', '\u2581is', '\u2581delicious', '\u2581', ',', '\u2581their', '\u2581Su', 'shi', '\u2581is', '\u2581out', '\u2581of', '\u2581this', '\u2581world', '\u2581', '.']",
+        "ID": 92
+    },
+    {
+        "sentence": "Mizu is home to creative and unique rolls not to found anywhere else .",
+        "triplets": [
+            {
+                "aspect": [
+                    8,
+                    9,
+                    [
+                        "\u2581rolls"
+                    ],
+                    "rolls"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581unique"
+                    ],
+                    "unique"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Mi', 'zu', '\u2581is', '\u2581home', '\u2581to', '\u2581creative', '\u2581and', '\u2581unique', '\u2581rolls', '\u2581not', '\u2581to', '\u2581found', '\u2581anywhere', '\u2581else', '\u2581', '.']",
+        "ID": 93
+    },
+    {
+        "sentence": "Not only is the cuisine the best around , the service has always been attentive and charming .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581cuisine"
+                    ],
+                    "cuisine"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581best"
+                    ],
+                    "best"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    11,
+                    12,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    15,
+                    16,
+                    [
+                        "\u2581attentive"
+                    ],
+                    "attentive"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    11,
+                    12,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    17,
+                    18,
+                    [
+                        "\u2581charming"
+                    ],
+                    "charming"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Not', '\u2581only', '\u2581is', '\u2581the', '\u2581cuisine', '\u2581the', '\u2581best', '\u2581around', '\u2581', ',', '\u2581the', '\u2581service', '\u2581has', '\u2581always', '\u2581been', '\u2581attentive', '\u2581and', '\u2581charming', '\u2581', '.']",
+        "ID": 94
+    },
+    {
+        "sentence": "The entree was bland and small , dessert was not inspired .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581entre",
+                        "e"
+                    ],
+                    "entree"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581bland"
+                    ],
+                    "bland"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581entre",
+                        "e"
+                    ],
+                    "entree"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581small"
+                    ],
+                    "small"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    9,
+                    10,
+                    [
+                        "\u2581dessert"
+                    ],
+                    "dessert"
+                ],
+                "opinion": [
+                    11,
+                    13,
+                    [
+                        "\u2581not",
+                        "\u2581inspired"
+                    ],
+                    "not inspired"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581entre', 'e', '\u2581was', '\u2581bland', '\u2581and', '\u2581small', '\u2581', ',', '\u2581dessert', '\u2581was', '\u2581not', '\u2581inspired', '\u2581', '.']",
+        "ID": 95
+    },
+    {
+        "sentence": "Wonderful strawberry daiquiries as well !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    6,
+                    [
+                        "\u2581strawberry",
+                        "\u2581da",
+                        "i",
+                        "qui",
+                        "ries"
+                    ],
+                    "strawberry daiquiries"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Wonderful"
+                    ],
+                    "Wonderful"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Wonderful', '\u2581strawberry', '\u2581da', 'i', 'qui', 'ries', '\u2581as', '\u2581well', '\u2581', '!']",
+        "ID": 96
+    },
+    {
+        "sentence": "Authentic Taiwanese food that 's cheap ... what more could you ask for ?",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    7,
+                    [
+                        "\u2581Taiwan",
+                        "e",
+                        "s",
+                        "e",
+                        "\u2581food"
+                    ],
+                    "Taiwanese food"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "Authentic"
+                    ],
+                    "Authentic"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    2,
+                    7,
+                    [
+                        "\u2581Taiwan",
+                        "e",
+                        "s",
+                        "e",
+                        "\u2581food"
+                    ],
+                    "Taiwanese food"
+                ],
+                "opinion": [
+                    11,
+                    12,
+                    [
+                        "\u2581cheap"
+                    ],
+                    "cheap"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581', 'Authentic', '\u2581Taiwan', 'e', 's', 'e', '\u2581food', '\u2581that', '\u2581', \"'\", 's', '\u2581cheap', '\u2581', '...', '\u2581what', '\u2581more', '\u2581could', '\u2581you', '\u2581ask', '\u2581for', '\u2581', '?']",
+        "ID": 97
+    },
+    {
+        "sentence": "My friend devoured her chicken and mashed potatos .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    12,
+                    [
+                        "\u2581chicken",
+                        "\u2581and",
+                        "\u2581",
+                        "mashed",
+                        "\u2581potato",
+                        "s"
+                    ],
+                    "chicken and mashed potatos"
+                ],
+                "opinion": [
+                    2,
+                    5,
+                    [
+                        "\u2581devour",
+                        "e",
+                        "d"
+                    ],
+                    "devoured"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581My', '\u2581friend', '\u2581devour', 'e', 'd', '\u2581her', '\u2581chicken', '\u2581and', '\u2581', 'mashed', '\u2581potato', 's', '\u2581', '.']",
+        "ID": 98
+    },
+    {
+        "sentence": "Great neighborhood joint .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    3,
+                    [
+                        "\u2581joint"
+                    ],
+                    "joint"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Great"
+                    ],
+                    "Great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Great', '\u2581neighborhood', '\u2581joint', '\u2581', '.']",
+        "ID": 99
+    },
+    {
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "triplets": [
+            {
+                "aspect": [
+                    5,
+                    7,
+                    [
+                        "\u2581pizza",
+                        "\u2581place"
+                    ],
+                    "pizza place"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581nice"
+                    ],
+                    "nice"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    9,
+                    14,
+                    [
+                        "\u2581selection",
+                        "\u2581of",
+                        "\u2581thin",
+                        "\u2581crust",
+                        "\u2581pizza"
+                    ],
+                    "selection of thin crust pizza"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    16,
+                    18,
+                    [
+                        "\u2581Basil",
+                        "\u2581slice"
+                    ],
+                    "Basil slice"
+                ],
+                "opinion": [
+                    8,
+                    9,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581is', '\u2581', 'a', '\u2581nice', '\u2581pizza', '\u2581place', '\u2581with', '\u2581good', '\u2581selection', '\u2581of', '\u2581thin', '\u2581crust', '\u2581pizza', '\u2581including', '\u2581the', '\u2581Basil', '\u2581slice', '\u2581', '.']",
+        "ID": 100
+    },
+    {
+        "sentence": "The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    5,
+                    [
+                        "\u2581do",
+                        "s",
+                        "a",
+                        "s"
+                    ],
+                    "dosas"
+                ],
+                "opinion": [
+                    6,
+                    9,
+                    [
+                        "\u2581ski",
+                        "mp",
+                        "y"
+                    ],
+                    "skimpy"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    5,
+                    [
+                        "\u2581do",
+                        "s",
+                        "a",
+                        "s"
+                    ],
+                    "dosas"
+                ],
+                "opinion": [
+                    11,
+                    15,
+                    [
+                        "\u2581un",
+                        "at",
+                        "trac",
+                        "tive"
+                    ],
+                    "unattractive"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581do', 's', 'a', 's', '\u2581are', '\u2581ski', 'mp', 'y', '\u2581', ',', '\u2581un', 'at', 'trac', 'tive', '\u2581and', '\u2581drip', '\u2581with', '\u2581grease', '\u2581', ',', '\u2581and', '\u2581personally', '\u2581I', '\u2581', \"'\", 'd', '\u2581drink', '\u2581popcorn', '\u2581topping', '\u2581before', '\u2581I', '\u2581', \"'\", 'd', '\u2581', 'eat', '\u2581another', '\u2581one', '\u2581of', '\u2581these', '\u2581', '.']",
+        "ID": 101
+    },
+    {
+        "sentence": "Best Italian food I ever had ( and being Italian , that means alot ) .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581Italian",
+                        "\u2581food"
+                    ],
+                    "Italian food"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Best"
+                    ],
+                    "Best"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Best', '\u2581Italian', '\u2581food', '\u2581I', '\u2581ever', '\u2581had', '\u2581(', '\u2581and', '\u2581being', '\u2581Italian', '\u2581', ',', '\u2581that', '\u2581means', '\u2581', 'a', 'lot', '\u2581', ')', '\u2581', '.']",
+        "ID": 102
+    },
+    {
+        "sentence": "The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581restaurant"
+                    ],
+                    "restaurant"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581beautiful"
+                    ],
+                    "beautiful"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581restaurant', '\u2581looks', '\u2581out', '\u2581over', '\u2581beautiful', '\u2581green', '\u2581lawn', 's', '\u2581to', '\u2581the', '\u2581Hudson', '\u2581River', '\u2581and', '\u2581the', '\u2581Stat', 'u', 'e', '\u2581of', '\u2581Liberty', '\u2581', '.']",
+        "ID": 103
+    },
+    {
+        "sentence": "The food is good , especially their more basic dishes , and the drinks are delicious .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    9,
+                    11,
+                    [
+                        "\u2581basic",
+                        "\u2581dishes"
+                    ],
+                    "basic dishes"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    15,
+                    16,
+                    [
+                        "\u2581drinks"
+                    ],
+                    "drinks"
+                ],
+                "opinion": [
+                    17,
+                    18,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581is', '\u2581good', '\u2581', ',', '\u2581especially', '\u2581their', '\u2581more', '\u2581basic', '\u2581dishes', '\u2581', ',', '\u2581and', '\u2581the', '\u2581drinks', '\u2581are', '\u2581delicious', '\u2581', '.']",
+        "ID": 104
+    },
+    {
+        "sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581spread",
+                        "s"
+                    ],
+                    "spreads"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Good"
+                    ],
+                    "Good"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    9,
+                    [
+                        "\u2581beverage",
+                        "\u2581selection",
+                        "s"
+                    ],
+                    "beverage selections"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    10,
+                    12,
+                    [
+                        "\u2581bag",
+                        "els"
+                    ],
+                    "bagels"
+                ],
+                "opinion": [
+                    13,
+                    14,
+                    [
+                        "\u2581tasty"
+                    ],
+                    "tasty"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Good', '\u2581spread', 's', '\u2581', ',', '\u2581great', '\u2581beverage', '\u2581selection', 's', '\u2581and', '\u2581bag', 'els', '\u2581really', '\u2581tasty', '\u2581', '.']",
+        "ID": 105
+    },
+    {
+        "sentence": "The cream cheeses are out of this world and I love that coffee ! !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    4,
+                    [
+                        "\u2581cream",
+                        "\u2581cheese",
+                        "s"
+                    ],
+                    "cream cheeses"
+                ],
+                "opinion": [
+                    5,
+                    9,
+                    [
+                        "\u2581out",
+                        "\u2581of",
+                        "\u2581this",
+                        "\u2581world"
+                    ],
+                    "out of this world"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    13,
+                    14,
+                    [
+                        "\u2581coffee"
+                    ],
+                    "coffee"
+                ],
+                "opinion": [
+                    11,
+                    12,
+                    [
+                        "\u2581love"
+                    ],
+                    "love"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581cream', '\u2581cheese', 's', '\u2581are', '\u2581out', '\u2581of', '\u2581this', '\u2581world', '\u2581and', '\u2581I', '\u2581love', '\u2581that', '\u2581coffee', '\u2581', '!', '\u2581', '!']",
+        "ID": 106
+    },
+    {
+        "sentence": "The fish was adequate , but inexpertly sliced .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581fish"
+                    ],
+                    "fish"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581adequate"
+                    ],
+                    "adequate"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581fish"
+                    ],
+                    "fish"
+                ],
+                "opinion": [
+                    7,
+                    12,
+                    [
+                        "\u2581in",
+                        "expert",
+                        "ly",
+                        "\u2581",
+                        "sliced"
+                    ],
+                    "inexpertly sliced"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581fish', '\u2581was', '\u2581adequate', '\u2581', ',', '\u2581but', '\u2581in', 'expert', 'ly', '\u2581', 'sliced', '\u2581', '.']",
+        "ID": 107
+    },
+    {
+        "sentence": "Well , this place is so Ghetto its not even funny .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    7,
+                    11,
+                    [
+                        "\u2581G",
+                        "he",
+                        "t",
+                        "to"
+                    ],
+                    "Ghetto"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    12,
+                    15,
+                    [
+                        "\u2581not",
+                        "\u2581even",
+                        "\u2581funny"
+                    ],
+                    "not even funny"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Well', '\u2581', ',', '\u2581this', '\u2581place', '\u2581is', '\u2581so', '\u2581G', 'he', 't', 'to', '\u2581its', '\u2581not', '\u2581even', '\u2581funny', '\u2581', '.']",
+        "ID": 108
+    },
+    {
+        "sentence": "Awsome Pizza especially the Margheritta slice .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581Pizza"
+                    ],
+                    "Pizza"
+                ],
+                "opinion": [
+                    0,
+                    3,
+                    [
+                        "\u2581A",
+                        "w",
+                        "some"
+                    ],
+                    "Awsome"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    11,
+                    [
+                        "\u2581Marg",
+                        "he",
+                        "ritt",
+                        "a",
+                        "\u2581slice"
+                    ],
+                    "Margheritta slice"
+                ],
+                "opinion": [
+                    0,
+                    3,
+                    [
+                        "\u2581A",
+                        "w",
+                        "some"
+                    ],
+                    "Awsome"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581A', 'w', 'some', '\u2581Pizza', '\u2581especially', '\u2581the', '\u2581Marg', 'he', 'ritt', 'a', '\u2581slice', '\u2581', '.']",
+        "ID": 109
+    },
+    {
+        "sentence": "Everything about this restaurant was special .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581restaurant"
+                    ],
+                    "restaurant"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581special"
+                    ],
+                    "special"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Everything', '\u2581about', '\u2581this', '\u2581restaurant', '\u2581was', '\u2581special', '\u2581', '.']",
+        "ID": 110
+    },
+    {
+        "sentence": "You ca n't go wrong with this place .",
+        "triplets": [
+            {
+                "aspect": [
+                    10,
+                    11,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    1,
+                    8,
+                    [
+                        "\u2581ca",
+                        "\u2581",
+                        "n",
+                        "'",
+                        "t",
+                        "\u2581go",
+                        "\u2581wrong"
+                    ],
+                    "can't go wrong"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581You', '\u2581ca', '\u2581', 'n', \"'\", 't', '\u2581go', '\u2581wrong', '\u2581with', '\u2581this', '\u2581place', '\u2581', '.']",
+        "ID": 111
+    },
+    {
+        "sentence": "The food is excellent !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581is', '\u2581excellent', '\u2581', '!']",
+        "ID": 112
+    },
+    {
+        "sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581restaurant"
+                    ],
+                    "restaurant"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581noisy"
+                    ],
+                    "noisy"
+                ],
+                "sentiment": "negative"
+            },
+            {
+                "aspect": [
+                    24,
+                    25,
+                    [
+                        "\u2581meal"
+                    ],
+                    "meal"
+                ],
+                "opinion": [
+                    20,
+                    21,
+                    [
+                        "\u2581enjoy"
+                    ],
+                    "enjoy"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    24,
+                    25,
+                    [
+                        "\u2581meal"
+                    ],
+                    "meal"
+                ],
+                "opinion": [
+                    23,
+                    24,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581restaurant', '\u2581is', '\u2581', 'a', '\u2581bit', '\u2581noisy', '\u2581but', '\u2581that', '\u2581is', '\u2581something', '\u2581that', '\u2581can', '\u2581be', '\u2581overlooked', '\u2581once', '\u2581you', '\u2581sit', '\u2581down', '\u2581and', '\u2581enjoy', '\u2581', 'a', '\u2581great', '\u2581meal']",
+        "ID": 113
+    },
+    {
+        "sentence": "this little place has a cute interior decor and affordable city prices .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    3,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    1,
+                    2,
+                    [
+                        "\u2581little"
+                    ],
+                    "little"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    7,
+                    9,
+                    [
+                        "\u2581interior",
+                        "\u2581decor"
+                    ],
+                    "interior decor"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581cute"
+                    ],
+                    "cute"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581this', '\u2581little', '\u2581place', '\u2581has', '\u2581', 'a', '\u2581cute', '\u2581interior', '\u2581decor', '\u2581and', '\u2581affordable', '\u2581city', '\u2581prices', '\u2581', '.']",
+        "ID": 114
+    },
+    {
+        "sentence": "delicious bagels , especially when right out of the oven .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    3,
+                    [
+                        "\u2581bag",
+                        "els"
+                    ],
+                    "bagels"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581delicious"
+                    ],
+                    "delicious"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581delicious', '\u2581bag', 'els', '\u2581', ',', '\u2581especially', '\u2581when', '\u2581right', '\u2581out', '\u2581of', '\u2581the', '\u2581oven', '\u2581', '.']",
+        "ID": 115
+    },
+    {
+        "sentence": "Service is fast and friendly .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581fast"
+                    ],
+                    "fast"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Service', '\u2581is', '\u2581fast', '\u2581and', '\u2581friendly', '\u2581', '.']",
+        "ID": 116
+    },
+    {
+        "sentence": "Rao is a good restaurant , but it 's nothing special .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    2,
+                    [
+                        "\u2581Ra",
+                        "o"
+                    ],
+                    "Rao"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581Ra', 'o', '\u2581is', '\u2581', 'a', '\u2581good', '\u2581restaurant', '\u2581', ',', '\u2581but', '\u2581it', '\u2581', \"'\", 's', '\u2581nothing', '\u2581special', '\u2581', '.']",
+        "ID": 117
+    },
+    {
+        "sentence": "I really loved the different and inovated touch that 's the cheff gives to the food .",
+        "triplets": [
+            {
+                "aspect": [
+                    15,
+                    17,
+                    [
+                        "\u2581chef",
+                        "f"
+                    ],
+                    "cheff"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581loved"
+                    ],
+                    "loved"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    15,
+                    17,
+                    [
+                        "\u2581chef",
+                        "f"
+                    ],
+                    "cheff"
+                ],
+                "opinion": [
+                    6,
+                    9,
+                    [
+                        "\u2581in",
+                        "ova",
+                        "ted"
+                    ],
+                    "inovated"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581really', '\u2581loved', '\u2581the', '\u2581different', '\u2581and', '\u2581in', 'ova', 'ted', '\u2581touch', '\u2581that', '\u2581', \"'\", 's', '\u2581the', '\u2581chef', 'f', '\u2581gives', '\u2581to', '\u2581the', '\u2581food', '\u2581', '.']",
+        "ID": 118
+    },
+    {
+        "sentence": "Drawbacks : service is slow and they do n't toast !",
+        "triplets": [
+            {
+                "aspect": [
+                    5,
+                    6,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581slow"
+                    ],
+                    "slow"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Draw', 'back', 's', '\u2581', ':', '\u2581service', '\u2581is', '\u2581slow', '\u2581and', '\u2581they', '\u2581do', '\u2581', 'n', \"'\", 't', '\u2581toast', '\u2581', '!']",
+        "ID": 119
+    },
+    {
+        "sentence": "Volare virgins or weekly regulars , everyone gets treated the same and you ca n't ask for more than that when the service is this friendly .",
+        "triplets": [
+            {
+                "aspect": [
+                    29,
+                    30,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    32,
+                    33,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Vol', 'are', '\u2581virgin', 's', '\u2581or', '\u2581weekly', '\u2581regular', 's', '\u2581', ',', '\u2581everyone', '\u2581gets', '\u2581treated', '\u2581the', '\u2581same', '\u2581and', '\u2581you', '\u2581ca', '\u2581', 'n', \"'\", 't', '\u2581ask', '\u2581for', '\u2581more', '\u2581than', '\u2581that', '\u2581when', '\u2581the', '\u2581service', '\u2581is', '\u2581this', '\u2581friendly', '\u2581', '.']",
+        "ID": 120
+    },
+    {
+        "sentence": "Lucky Strike is a great casual place to just grab a bite to eat .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    3,
+                    [
+                        "\u2581Lucky",
+                        "\u2581Str",
+                        "ike"
+                    ],
+                    "Lucky Strike"
+                ],
+                "opinion": [
+                    6,
+                    8,
+                    [
+                        "\u2581great",
+                        "\u2581casual"
+                    ],
+                    "great casual"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Lucky', '\u2581Str', 'ike', '\u2581is', '\u2581', 'a', '\u2581great', '\u2581casual', '\u2581place', '\u2581to', '\u2581just', '\u2581grab', '\u2581', 'a', '\u2581bite', '\u2581to', '\u2581', 'eat', '\u2581', '.']",
+        "ID": 121
+    },
+    {
+        "sentence": "What a great place !",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    5,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581What', '\u2581', 'a', '\u2581great', '\u2581place', '\u2581', '!']",
+        "ID": 122
+    },
+    {
+        "sentence": "This place has the best Chinese style BBQ ribs in the city .",
+        "triplets": [
+            {
+                "aspect": [
+                    7,
+                    11,
+                    [
+                        "\u2581BBQ",
+                        "\u2581",
+                        "rib",
+                        "s"
+                    ],
+                    "BBQ ribs"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581best"
+                    ],
+                    "best"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581place', '\u2581has', '\u2581the', '\u2581best', '\u2581Chinese', '\u2581style', '\u2581BBQ', '\u2581', 'rib', 's', '\u2581in', '\u2581the', '\u2581city', '\u2581', '.']",
+        "ID": 123
+    },
+    {
+        "sentence": "Quick and friendly service .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Quick"
+                    ],
+                    "Quick"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    3,
+                    4,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Quick', '\u2581and', '\u2581friendly', '\u2581service', '\u2581', '.']",
+        "ID": 124
+    },
+    {
+        "sentence": "This little place definitely exceeded my expectations and you sure get a lot of food for your money .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    3,
+                    [
+                        "\u2581place"
+                    ],
+                    "place"
+                ],
+                "opinion": [
+                    4,
+                    7,
+                    [
+                        "\u2581exceeded",
+                        "\u2581my",
+                        "\u2581expectations"
+                    ],
+                    "exceeded my expectations"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    15,
+                    16,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    13,
+                    14,
+                    [
+                        "\u2581lot"
+                    ],
+                    "lot"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581little', '\u2581place', '\u2581definitely', '\u2581exceeded', '\u2581my', '\u2581expectations', '\u2581and', '\u2581you', '\u2581sure', '\u2581get', '\u2581', 'a', '\u2581lot', '\u2581of', '\u2581food', '\u2581for', '\u2581your', '\u2581money', '\u2581', '.']",
+        "ID": 125
+    },
+    {
+        "sentence": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Service"
+                    ],
+                    "Service"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    14,
+                    20,
+                    [
+                        "\u2581setting",
+                        "/",
+                        "at",
+                        "m",
+                        "o",
+                        "sphere"
+                    ],
+                    "setting/atmosphere"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581liked"
+                    ],
+                    "liked"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Service', '\u2581', ',', '\u2581however', '\u2581', ',', '\u2581was', '\u2581excellent', '\u2581', '...', '\u2581and', '\u2581I', '\u2581liked', '\u2581the', '\u2581setting', '/', 'at', 'm', 'o', 'sphere', '\u2581', 'a', '\u2581lot', '\u2581', '.']",
+        "ID": 126
+    },
+    {
+        "sentence": "People are always friendly .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581People"
+                    ],
+                    "People"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581friendly"
+                    ],
+                    "friendly"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581People', '\u2581are', '\u2581always', '\u2581friendly', '\u2581', '.']",
+        "ID": 127
+    },
+    {
+        "sentence": "bottles of wine are cheap and good .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    3,
+                    [
+                        "\u2581bottles",
+                        "\u2581of",
+                        "\u2581wine"
+                    ],
+                    "bottles of wine"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581cheap"
+                    ],
+                    "cheap"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    0,
+                    3,
+                    [
+                        "\u2581bottles",
+                        "\u2581of",
+                        "\u2581wine"
+                    ],
+                    "bottles of wine"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581bottles', '\u2581of', '\u2581wine', '\u2581are', '\u2581cheap', '\u2581and', '\u2581good', '\u2581', '.']",
+        "ID": 128
+    },
+    {
+        "sentence": "The food was actually aweful .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    5,
+                    8,
+                    [
+                        "a",
+                        "we",
+                        "ful"
+                    ],
+                    "aweful"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581was', '\u2581actually', '\u2581', 'a', 'we', 'ful', '\u2581', '.']",
+        "ID": 129
+    },
+    {
+        "sentence": "the drinks are amazing and half off till 8pm .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581drinks"
+                    ],
+                    "drinks"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581amazing"
+                    ],
+                    "amazing"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581the', '\u2581drinks', '\u2581are', '\u2581amazing', '\u2581and', '\u2581half', '\u2581off', '\u2581till', '\u25818', 'pm', '\u2581', '.']",
+        "ID": 130
+    },
+    {
+        "sentence": "This is an amazing place to try some roti rolls .",
+        "triplets": [
+            {
+                "aspect": [
+                    9,
+                    12,
+                    [
+                        "rot",
+                        "i",
+                        "\u2581rolls"
+                    ],
+                    "roti rolls"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581try"
+                    ],
+                    "try"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581This', '\u2581is', '\u2581an', '\u2581amazing', '\u2581place', '\u2581to', '\u2581try', '\u2581some', '\u2581', 'rot', 'i', '\u2581rolls', '\u2581', '.']",
+        "ID": 131
+    },
+    {
+        "sentence": "I really recommend the very simple Unda ( Egg ) rolls .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    13,
+                    [
+                        "\u2581Und",
+                        "a",
+                        "\u2581(",
+                        "\u2581Egg",
+                        "\u2581",
+                        ")",
+                        "\u2581rolls"
+                    ],
+                    "Unda ( Egg ) rolls"
+                ],
+                "opinion": [
+                    2,
+                    3,
+                    [
+                        "\u2581recommend"
+                    ],
+                    "recommend"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    6,
+                    13,
+                    [
+                        "\u2581Und",
+                        "a",
+                        "\u2581(",
+                        "\u2581Egg",
+                        "\u2581",
+                        ")",
+                        "\u2581rolls"
+                    ],
+                    "Unda ( Egg ) rolls"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581simple"
+                    ],
+                    "simple"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581really', '\u2581recommend', '\u2581the', '\u2581very', '\u2581simple', '\u2581Und', 'a', '\u2581(', '\u2581Egg', '\u2581', ')', '\u2581rolls', '\u2581', '.']",
+        "ID": 132
+    },
+    {
+        "sentence": "Delicate spices , onions , eggs and a kick-ass roti .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    3,
+                    [
+                        "\u2581spices"
+                    ],
+                    "spices"
+                ],
+                "opinion": [
+                    0,
+                    2,
+                    [
+                        "\u2581De",
+                        "licate"
+                    ],
+                    "Delicate"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    5,
+                    6,
+                    [
+                        "\u2581onions"
+                    ],
+                    "onions"
+                ],
+                "opinion": [
+                    0,
+                    2,
+                    [
+                        "\u2581De",
+                        "licate"
+                    ],
+                    "Delicate"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    8,
+                    9,
+                    [
+                        "\u2581eggs"
+                    ],
+                    "eggs"
+                ],
+                "opinion": [
+                    0,
+                    2,
+                    [
+                        "\u2581De",
+                        "licate"
+                    ],
+                    "Delicate"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    18,
+                    20,
+                    [
+                        "rot",
+                        "i"
+                    ],
+                    "roti"
+                ],
+                "opinion": [
+                    12,
+                    17,
+                    [
+                        "\u2581kick",
+                        "-",
+                        "a",
+                        "s",
+                        "s"
+                    ],
+                    "kick-ass"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581De', 'licate', '\u2581spices', '\u2581', ',', '\u2581onions', '\u2581', ',', '\u2581eggs', '\u2581and', '\u2581', 'a', '\u2581kick', '-', 'a', 's', 's', '\u2581', 'rot', 'i', '\u2581', '.']",
+        "ID": 133
+    },
+    {
+        "sentence": "Best drumsticks over rice and sour spicy soup in town !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    6,
+                    [
+                        "\u2581drum",
+                        "stick",
+                        "s",
+                        "\u2581over",
+                        "\u2581rice"
+                    ],
+                    "drumsticks over rice"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Best"
+                    ],
+                    "Best"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    8,
+                    12,
+                    [
+                        "s",
+                        "our",
+                        "\u2581spicy",
+                        "\u2581soup"
+                    ],
+                    "sour spicy soup"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Best"
+                    ],
+                    "Best"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Best', '\u2581drum', 'stick', 's', '\u2581over', '\u2581rice', '\u2581and', '\u2581', 's', 'our', '\u2581spicy', '\u2581soup', '\u2581in', '\u2581town', '\u2581', '!']",
+        "ID": 134
+    },
+    {
+        "sentence": "Beef noodle soup is good as well .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    6,
+                    [
+                        "\u2581Bee",
+                        "f",
+                        "\u2581",
+                        "n",
+                        "oodle",
+                        "\u2581soup"
+                    ],
+                    "Beef noodle soup"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Bee', 'f', '\u2581', 'n', 'oodle', '\u2581soup', '\u2581is', '\u2581good', '\u2581as', '\u2581well', '\u2581', '.']",
+        "ID": 135
+    },
+    {
+        "sentence": "Best Taiwanese food in NY !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    6,
+                    [
+                        "\u2581Taiwan",
+                        "e",
+                        "s",
+                        "e",
+                        "\u2581food"
+                    ],
+                    "Taiwanese food"
+                ],
+                "opinion": [
+                    0,
+                    1,
+                    [
+                        "\u2581Best"
+                    ],
+                    "Best"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Best', '\u2581Taiwan', 'e', 's', 'e', '\u2581food', '\u2581in', '\u2581NY', '\u2581', '!']",
+        "ID": 136
+    },
+    {
+        "sentence": "I have been to Rao 's probably 15 times the past 3 years and it keeps getting better .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    9,
+                    [
+                        "\u2581Ra",
+                        "o",
+                        "\u2581",
+                        "'",
+                        "s"
+                    ],
+                    "Rao's"
+                ],
+                "opinion": [
+                    20,
+                    21,
+                    [
+                        "\u2581better"
+                    ],
+                    "better"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581I', '\u2581have', '\u2581been', '\u2581to', '\u2581Ra', 'o', '\u2581', \"'\", 's', '\u2581probably', '\u258115', '\u2581times', '\u2581the', '\u2581past', '\u25813', '\u2581years', '\u2581and', '\u2581it', '\u2581keeps', '\u2581getting', '\u2581better', '\u2581', '.']",
+        "ID": 137
+    },
+    {
+        "sentence": "Staff is very accomodating .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    1,
+                    [
+                        "\u2581Staff"
+                    ],
+                    "Staff"
+                ],
+                "opinion": [
+                    4,
+                    7,
+                    [
+                        "acco",
+                        "mod",
+                        "ating"
+                    ],
+                    "accomodating"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Staff', '\u2581is', '\u2581very', '\u2581', 'acco', 'mod', 'ating', '\u2581', '.']",
+        "ID": 138
+    },
+    {
+        "sentence": "The decor is very simple but comfortable .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581decor"
+                    ],
+                    "decor"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581simple"
+                    ],
+                    "simple"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581decor"
+                    ],
+                    "decor"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581comfortable"
+                    ],
+                    "comfortable"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581decor', '\u2581is', '\u2581very', '\u2581simple', '\u2581but', '\u2581comfortable', '\u2581', '.']",
+        "ID": 139
+    },
+    {
+        "sentence": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .",
+        "triplets": [
+            {
+                "aspect": [
+                    4,
+                    9,
+                    [
+                        "\u2581crab",
+                        "m",
+                        "eat",
+                        "\u2581lasa",
+                        "gna"
+                    ],
+                    "crabmeat lasagna"
+                ],
+                "opinion": [
+                    11,
+                    15,
+                    [
+                        "\u2581out",
+                        "\u2581of",
+                        "\u2581this",
+                        "\u2581world"
+                    ],
+                    "out of this world"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581You', '\u2581must', '\u2581have', '\u2581the', '\u2581crab', 'm', 'eat', '\u2581lasa', 'gna', '\u2581which', '\u2581is', '\u2581out', '\u2581of', '\u2581this', '\u2581world', '\u2581and', '\u2581the', '\u2581chocolate', '\u2581bread', '\u2581pudding', '\u2581for', '\u2581dessert', '\u2581', '.']",
+        "ID": 140
+    },
+    {
+        "sentence": "whoever the jazz duo was , they were on POINT .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    6,
+                    [
+                        "\u2581jazz",
+                        "\u2581du",
+                        "o"
+                    ],
+                    "jazz duo"
+                ],
+                "opinion": [
+                    11,
+                    14,
+                    [
+                        "\u2581on",
+                        "\u2581PO",
+                        "INT"
+                    ],
+                    "on POINT"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581', 'whoever', '\u2581the', '\u2581jazz', '\u2581du', 'o', '\u2581was', '\u2581', ',', '\u2581they', '\u2581were', '\u2581on', '\u2581PO', 'INT', '\u2581', '.']",
+        "ID": 141
+    },
+    {
+        "sentence": "even the wine by the glass was good .",
+        "triplets": [
+            {
+                "aspect": [
+                    2,
+                    6,
+                    [
+                        "\u2581wine",
+                        "\u2581by",
+                        "\u2581the",
+                        "\u2581glass"
+                    ],
+                    "wine by the glass"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581good"
+                    ],
+                    "good"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581even', '\u2581the', '\u2581wine', '\u2581by', '\u2581the', '\u2581glass', '\u2581was', '\u2581good', '\u2581', '.']",
+        "ID": 142
+    },
+    {
+        "sentence": "The food is okay and the prices here are mediocre .",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    3,
+                    4,
+                    [
+                        "\u2581okay"
+                    ],
+                    "okay"
+                ],
+                "sentiment": "neutral"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581food', '\u2581is', '\u2581okay', '\u2581and', '\u2581the', '\u2581prices', '\u2581here', '\u2581are', '\u2581', 'mediocr', 'e', '\u2581', '.']",
+        "ID": 143
+    },
+    {
+        "sentence": "Baluchi 's has solid food and a nice decor at reasonable prices .",
+        "triplets": [
+            {
+                "aspect": [
+                    0,
+                    6,
+                    [
+                        "\u2581Bal",
+                        "uch",
+                        "i",
+                        "\u2581",
+                        "'",
+                        "s"
+                    ],
+                    "Baluchi's"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581solid"
+                    ],
+                    "solid"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    8,
+                    9,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    7,
+                    8,
+                    [
+                        "\u2581solid"
+                    ],
+                    "solid"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    13,
+                    14,
+                    [
+                        "\u2581decor"
+                    ],
+                    "decor"
+                ],
+                "opinion": [
+                    12,
+                    13,
+                    [
+                        "\u2581nice"
+                    ],
+                    "nice"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581Bal', 'uch', 'i', '\u2581', \"'\", 's', '\u2581has', '\u2581solid', '\u2581food', '\u2581and', '\u2581', 'a', '\u2581nice', '\u2581decor', '\u2581at', '\u2581reasonable', '\u2581prices', '\u2581', '.']",
+        "ID": 144
+    },
+    {
+        "sentence": "$ 20 for all you can eat sushi can not be beaten .",
+        "triplets": [
+            {
+                "aspect": [
+                    3,
+                    9,
+                    [
+                        "\u2581all",
+                        "\u2581you",
+                        "\u2581can",
+                        "\u2581",
+                        "eat",
+                        "\u2581sushi"
+                    ],
+                    "all you can eat sushi"
+                ],
+                "opinion": [
+                    13,
+                    14,
+                    [
+                        "beaten"
+                    ],
+                    "beaten"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581$', '\u258120', '\u2581for', '\u2581all', '\u2581you', '\u2581can', '\u2581', 'eat', '\u2581sushi', '\u2581can', '\u2581not', '\u2581be', '\u2581', 'beaten', '\u2581', '.']",
+        "ID": 145
+    },
+    {
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "triplets": [
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581vibe"
+                    ],
+                    "vibe"
+                ],
+                "opinion": [
+                    4,
+                    5,
+                    [
+                        "\u2581relaxed"
+                    ],
+                    "relaxed"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    1,
+                    2,
+                    [
+                        "\u2581vibe"
+                    ],
+                    "vibe"
+                ],
+                "opinion": [
+                    6,
+                    7,
+                    [
+                        "\u2581cozy"
+                    ],
+                    "cozy"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    9,
+                    10,
+                    [
+                        "\u2581service"
+                    ],
+                    "service"
+                ],
+                "opinion": [
+                    11,
+                    12,
+                    [
+                        "\u2581great"
+                    ],
+                    "great"
+                ],
+                "sentiment": "positive"
+            },
+            {
+                "aspect": [
+                    14,
+                    15,
+                    [
+                        "\u2581food"
+                    ],
+                    "food"
+                ],
+                "opinion": [
+                    16,
+                    17,
+                    [
+                        "\u2581excellent"
+                    ],
+                    "excellent"
+                ],
+                "sentiment": "positive"
+            }
+        ],
+        "tokens": "['\u2581The', '\u2581vibe', '\u2581is', '\u2581very', '\u2581relaxed', '\u2581and', '\u2581cozy', '\u2581', ',', '\u2581service', '\u2581was', '\u2581great', '\u2581and', '\u2581the', '\u2581food', '\u2581was', '\u2581excellent', '\u2581', '!']",
+        "ID": 146
+    },
+    {
+        "sentence": "Never have I had such dramatic delivery guys ( a lot of huffing and panting and muttering under breath b/c I live in a walkup ) who always seem disappointed with their tips .",
+        "triplets": [
+            {
+                "aspect": [
+                    6,
+                    8,
+                    [
+                        "\u2581delivery",
+                        "\u2581guys"
+                    ],
+                    "delivery guys"
+                ],
+                "opinion": [
+                    5,
+                    6,
+                    [
+                        "\u2581dramatic"
+                    ],
+                    "dramatic"
+                ],
+                "sentiment": "negative"
+            }
+        ],
+        "tokens": "['\u2581Never', '\u2581have', '\u2581I', '\u2581had', '\u2581such', '\u2581dramatic', '\u2581delivery', '\u2581guys', '\u2581(', '\u2581', 'a', '\u2581lot', '\u2581of', '\u2581', 'h', 'uff', 'ing', '\u2581and', '\u2581pan', 'ting', '\u2581and', '\u2581', 'm', 'utter', 'ing', '\u2581under', '\u2581breath', '\u2581', 'b', '/', 'c', '\u2581I', '\u2581live', '\u2581in', '\u2581', 'a', '\u2581walk', 'up', '\u2581', ')', '\u2581who', '\u2581always', '\u2581seem', '\u2581disappointed', '\u2581with', '\u2581their', '\u2581tips', '\u2581', '.']",
+        "ID": 147
+    }
+]
