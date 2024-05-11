@@ -10,12 +10,12 @@ This code employs our RSM and RPM on [GAS](https://aclanthology.org/2021.acl-sho
 
 ## Requirements
 
-- transformers==4.18.0
-- pytorch==1.7.1
+- transformers==4.26.1
+- pytorch==1.10.1
 - einops=0.4.0
 - torchmetrics==0.7.0
 - tntorch==1.0.1
-- pytorch-lightning==1.3.5
+- pytorch-lightning==1.9.3
 
 ## Datasets
 We have pre-processed data in `data`
